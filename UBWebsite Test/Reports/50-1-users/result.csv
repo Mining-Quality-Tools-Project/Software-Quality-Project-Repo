@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1737002219986,3307,ub homepage,200,OK,Thread Group 1-2,text,true,,155195,117,5,5,https://www.ubuea.cm/,1162,0,887
+1737002219077,4228,ub homepage,200,OK,Thread Group 1-1,text,true,,155195,117,5,5,https://www.ubuea.cm/,2062,0,1798
+1737002221017,3020,ub homepage,200,OK,Thread Group 1-3,text,true,,155195,117,5,5,https://www.ubuea.cm/,766,0,501
+1737002223309,1067,why us,200,OK,Thread Group 1-2,text,true,,92111,136,6,6,https://www.ubuea.cm/index.php/about-us/,236,0,0
+1737002223310,1114,why us,200,OK,Thread Group 1-1,text,true,,92116,136,6,6,https://www.ubuea.cm/index.php/about-us/,246,0,0
+1737002222054,2869,ub homepage,200,OK,Thread Group 1-4,text,true,,155195,117,6,6,https://www.ubuea.cm/,709,0,475
+1737002224037,1146,why us,200,OK,Thread Group 1-3,text,true,,92116,136,7,7,https://www.ubuea.cm/index.php/about-us/,242,0,0
+1737002224377,908,ub-job opportunities,200,OK,Thread Group 1-2,text,true,,93072,154,7,7,https://www.ubuea.cm/index.php/about-us/job-opportunities/,229,0,0
+1737002224425,938,ub-job opportunities,200,OK,Thread Group 1-1,text,true,,93072,154,7,7,https://www.ubuea.cm/index.php/about-us/job-opportunities/,261,0,0
+1737002225286,458,ub-announcements,200,OK,Thread Group 1-2,text,true,,67644,141,7,7,https://www.ubuea.cm/index.php/announcements/,231,0,0
+1737002225364,496,ub-announcements,200,OK,Thread Group 1-1,text,true,,67644,141,7,7,https://www.ubuea.cm/index.php/announcements/,251,0,0
+1737002223079,2924,ub homepage,200,OK,Thread Group 1-5,text,true,,155200,117,7,7,https://www.ubuea.cm/,703,0,466
+1737002224923,1096,why us,200,OK,Thread Group 1-4,text,true,,92116,136,7,7,https://www.ubuea.cm/index.php/about-us/,235,0,0
+1737002225184,918,ub-job opportunities,200,OK,Thread Group 1-3,text,true,,93077,154,7,7,https://www.ubuea.cm/index.php/about-us/job-opportunities/,251,0,0
+1737002225747,484,ub-news,200,OK,Thread Group 1-2,text,true,,88827,140,8,8,https://www.ubuea.cm/index.php/news-updates/,243,0,0
+1737002225862,624,ub-news,200,OK,Thread Group 1-1,text,true,,88827,140,8,8,https://www.ubuea.cm/index.php/news-updates/,254,0,0
+1737002226106,576,ub-announcements,200,OK,Thread Group 1-3,text,true,,67644,141,8,8,https://www.ubuea.cm/index.php/announcements/,260,0,0
+1737002226020,942,ub-job opportunities,200,OK,Thread Group 1-4,text,true,,93072,154,8,8,https://www.ubuea.cm/index.php/about-us/job-opportunities/,244,0,0
+1737002226487,502,ub-library,200,OK,Thread Group 1-1,text,true,,93827,152,8,8,https://www.ubuea.cm/index.php/student-services/library/,269,0,0
+1737002226003,1136,why us,200,OK,Thread Group 1-5,text,true,,92126,136,8,8,https://www.ubuea.cm/index.php/about-us/,236,0,0
+1737002224099,3065,ub homepage,200,OK,Thread Group 1-6,text,true,,155195,117,9,9,https://www.ubuea.cm/,732,0,482
+1737002226684,527,ub-news,200,OK,Thread Group 1-3,text,true,,88827,140,9,9,https://www.ubuea.cm/index.php/news-updates/,265,0,0
+1737002226963,479,ub-announcements,200,OK,Thread Group 1-4,text,true,,67654,141,9,9,https://www.ubuea.cm/index.php/announcements/,252,0,0
+1737002226991,473,ub-sports,200,OK,Thread Group 1-1,text,true,,83756,153,9,9,https://www.ubuea.cm/index.php/student-engagement/sports/,243,0,0
+1737002227212,494,ub-library,200,OK,Thread Group 1-3,text,true,,93827,152,9,9,https://www.ubuea.cm/index.php/student-services/library/,258,0,0
+1737002226232,1647,ub-library,200,OK,Thread Group 1-2,text,true,,93827,152,9,9,https://www.ubuea.cm/index.php/student-services/library/,258,0,0
+1737002227465,501,ub-finance,200,OK,Thread Group 1-1,text,true,,80674,155,9,9,https://www.ubuea.cm/index.php/student-services/ub-finance/,245,0,0
+1737002227447,521,ub-news,200,OK,Thread Group 1-4,text,true,,88837,140,9,9,https://www.ubuea.cm/index.php/news-updates/,232,0,0
+1737002227141,891,ub-job opportunities,200,OK,Thread Group 1-5,text,true,,93077,154,9,9,https://www.ubuea.cm/index.php/about-us/job-opportunities/,242,0,0
+1737002225120,2960,ub homepage,200,OK,Thread Group 1-7,text,true,,155200,117,9,9,https://www.ubuea.cm/,759,0,514
+1737002227707,479,ub-sports,200,OK,Thread Group 1-3,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,248,0,0
+1737002227165,1138,why us,200,OK,Thread Group 1-6,text,true,,92111,136,10,10,https://www.ubuea.cm/index.php/about-us/,235,0,0
+1737002227967,484,ub-exchange student,200,OK,Thread Group 1-1,text,true,,87237,168,10,10,https://www.ubuea.cm/index.php/international-students/exchange-students/,247,0,0
+1737002227969,491,ub-library,200,OK,Thread Group 1-4,text,true,,93827,152,10,10,https://www.ubuea.cm/index.php/student-services/library/,257,0,0
+1737002228033,502,ub-announcements,200,OK,Thread Group 1-5,text,true,,67644,141,10,10,https://www.ubuea.cm/index.php/announcements/,261,0,0
+1737002227881,660,ub-sports,200,OK,Thread Group 1-2,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,231,0,0
+1737002228187,494,ub-finance,200,OK,Thread Group 1-3,text,true,,80674,155,10,10,https://www.ubuea.cm/index.php/student-services/ub-finance/,238,0,0
+1737002228452,478,ub-transportation,200,OK,Thread Group 1-1,text,true,,81879,159,10,10,https://www.ubuea.cm/index.php/student-services/transportation/,240,0,0
+1737002228461,474,ub-sports,200,OK,Thread Group 1-4,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,239,0,0
+1737002228542,478,ub-finance,200,OK,Thread Group 1-2,text,true,,80674,155,10,10,https://www.ubuea.cm/index.php/student-services/ub-finance/,238,0,0
+1737002228537,523,ub-news,200,OK,Thread Group 1-5,text,true,,88827,140,10,10,https://www.ubuea.cm/index.php/news-updates/,251,0,0
+1737002228689,497,ub-exchange student,200,OK,Thread Group 1-3,text,true,,87237,168,10,10,https://www.ubuea.cm/index.php/international-students/exchange-students/,253,0,0
+1737002226138,3067,ub homepage,200,OK,Thread Group 1-8,text,true,,155195,117,11,11,https://www.ubuea.cm/,857,0,608
+1737002228081,1131,why us,200,OK,Thread Group 1-7,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,235,0,0
+1737002228304,930,ub-job opportunities,200,OK,Thread Group 1-6,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,243,0,0
+1737002228931,491,ub-health center,200,OK,Thread Group 1-1,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,258,0,0
+1737002228936,495,ub-finance,200,OK,Thread Group 1-4,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,259,0,0
+1737002229065,466,ub-library,200,OK,Thread Group 1-5,text,true,,93832,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,231,0,0
+1737002229187,504,ub-transportation,200,OK,Thread Group 1-3,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,254,0,0
+1737002229021,701,ub-exchange student,200,OK,Thread Group 1-2,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,246,0,0
+1737002229423,473,ub-Admission requirements,200,OK,Thread Group 1-1,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,243,0,0
+1737002229433,500,ub-exchange student,200,OK,Thread Group 1-4,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,270,0,0
+1737002229235,727,ub-announcements,200,OK,Thread Group 1-6,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,267,0,0
+1737002229532,458,ub-sports,200,OK,Thread Group 1-5,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,226,0,0
+1737002227158,2917,ub homepage,200,OK,Thread Group 1-9,text,true,,155195,117,11,11,https://www.ubuea.cm/,694,0,460
+1737002229213,956,ub-job opportunities,200,OK,Thread Group 1-7,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,260,0,0
+1737002229691,478,ub-health center,200,OK,Thread Group 1-3,text,true,,84434,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,249,0,0
+1737002229902,480,ub-fee and scholarships,200,OK,Thread Group 1-1,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,257,0,0
+1737002229211,1195,why us,200,OK,Thread Group 1-8,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,254,0,0
+1737002229722,705,ub-transportation,200,OK,Thread Group 1-2,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,242,0,0
+1737002230170,273,ub-Admission requirements,200,OK,Thread Group 1-3,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,260,0,0
+1737002229934,517,ub-transportation,200,OK,Thread Group 1-4,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,293,0,0
+1737002229991,490,ub-finance,200,OK,Thread Group 1-5,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,255,0,0
+1737002230170,544,ub-announcements,200,OK,Thread Group 1-7,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,248,0,0
+1737002230444,304,ub-fee and scholarships,200,OK,Thread Group 1-3,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,296,0,0
+1737002229963,790,ub-news,200,OK,Thread Group 1-6,text,true,,88827,140,12,12,https://www.ubuea.cm/index.php/news-updates/,276,0,0
+1737002230383,465,ub-faculties and schools,200,OK,Thread Group 1-1,text,true,,85466,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,236,0,0
+1737002230451,502,ub-health center,200,OK,Thread Group 1-4,text,true,,84434,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,275,0,0
+1737002230482,571,ub-exchange student,200,OK,Thread Group 1-5,text,true,,87237,168,12,12,https://www.ubuea.cm/index.php/international-students/exchange-students/,272,0,0
+1737002230749,325,ub-faculties and schools,200,OK,Thread Group 1-3,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,309,0,0
+1737002230428,756,ub-health center,200,OK,Thread Group 1-2,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,293,0,0
+1737002230407,785,ub-job opportunities,200,OK,Thread Group 1-8,text,true,,93072,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,309,0,0
+1737002230955,270,ub-Admission requirements,200,OK,Thread Group 1-4,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,242,0,0
+1737002230715,514,ub-news,200,OK,Thread Group 1-7,text,true,,88837,140,12,12,https://www.ubuea.cm/index.php/news-updates/,249,0,0
+1737002230075,1194,why us,200,OK,Thread Group 1-9,text,true,,92111,136,13,13,https://www.ubuea.cm/index.php/about-us/,244,0,0
+1737002228181,3110,ub homepage,200,OK,Thread Group 1-10,text,true,,155195,117,13,13,https://www.ubuea.cm/,757,0,506
+1737002230849,558,ub-FET,200,OK,Thread Group 1-1,text,true,,88303,187,13,13,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,240,0,0
+1737002231074,383,ub-FET,200,OK,Thread Group 1-3,text,true,,88303,187,13,13,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,373,0,0
+1737002231226,289,ub-fee and scholarships,200,OK,Thread Group 1-4,text,true,,81104,145,13,13,https://www.ubuea.cm/index.php/fees-scholarships/,280,0,0
+1737002231054,563,ub-transportation,200,OK,Thread Group 1-5,text,true,,81849,159,13,13,https://www.ubuea.cm/index.php/student-services/transportation/,339,0,0
+1737002230753,882,ub-library,200,OK,Thread Group 1-6,text,true,,93827,152,13,13,https://www.ubuea.cm/index.php/student-services/library/,324,0,0
+1737002231408,239,ub-httc application form,200,OK,Thread Group 1-1,text,true,,63363,183,13,13,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,230,0,0
+1737002231457,265,ub-httc application form,200,OK,Thread Group 1-3,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,255,0,0
+1737002231192,538,ub-announcements,200,OK,Thread Group 1-8,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,295,0,0
+1737002231230,503,ub-library,200,OK,Thread Group 1-7,text,true,,93852,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,270,0,0
+1737002231516,267,ub-faculties and schools,200,OK,Thread Group 1-4,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,259,0,0
+1737002231618,251,ub-health center,200,OK,Thread Group 1-5,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,236,0,0
+1737002231184,734,ub-Admission requirements,200,OK,Thread Group 1-2,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,274,0,0
+1737002231270,702,ub-job opportunities,200,OK,Thread Group 1-9,text,true,,93082,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,252,0,0
+1737002231784,251,ub-FET,200,OK,Thread Group 1-4,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,239,0,0
+1737002231870,264,ub-Admission requirements,200,OK,Thread Group 1-5,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,252,0,0
+1737002231730,485,ub-news,200,OK,Thread Group 1-8,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,244,0,0
+1737002231733,495,ub-sports,200,OK,Thread Group 1-7,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,256,0,0
+1737002229200,3143,ub homepage,200,OK,Thread Group 1-11,text,true,,155195,117,12,12,https://www.ubuea.cm/,740,0,496
+1737002232036,317,ub-httc application form,200,OK,Thread Group 1-4,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,307,0,0
+1737002231635,720,ub-sports,200,OK,Thread Group 1-6,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,238,0,0
+1737002232135,270,ub-fee and scholarships,200,OK,Thread Group 1-5,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,257,0,0
+1737002231292,1166,why us,200,OK,Thread Group 1-10,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,239,0,0
+1737002231973,507,ub-announcements,200,OK,Thread Group 1-9,text,true,,67654,141,11,11,https://www.ubuea.cm/index.php/announcements/,267,0,0
+1737002231919,650,ub-fee and scholarships,200,OK,Thread Group 1-2,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,225,0,0
+1737002232406,277,ub-faculties and schools,200,OK,Thread Group 1-5,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,251,0,0
+1737002232229,478,ub-finance,200,OK,Thread Group 1-7,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,253,0,0
+1737002232217,496,ub-library,200,OK,Thread Group 1-8,text,true,,93837,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,270,0,0
+1737002232684,255,ub-FET,200,OK,Thread Group 1-5,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,248,0,0
+1737002232355,705,ub-finance,200,OK,Thread Group 1-6,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,253,0,0
+1737002232481,674,ub-news,200,OK,Thread Group 1-9,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,245,0,0
+1737002232458,718,ub-job opportunities,200,OK,Thread Group 1-10,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,246,0,0
+1737002232708,471,ub-exchange student,200,OK,Thread Group 1-7,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,239,0,0
+1737002232714,476,ub-sports,200,OK,Thread Group 1-8,text,true,,83776,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,242,0,0
+1737002232941,283,ub-httc application form,200,OK,Thread Group 1-5,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,281,0,0
+1737002232570,665,ub-faculties and schools,200,OK,Thread Group 1-2,text,true,,85461,145,10,10,https://www.ubuea.cm/index.php/faculties-schools/,236,0,0
+1737002230218,3089,ub homepage,200,OK,Thread Group 1-12,text,true,,155195,117,11,11,https://www.ubuea.cm/,839,0,515
+1737002232343,1128,why us,200,OK,Thread Group 1-11,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,259,0,0
+1737002233179,439,ub-transportation,200,OK,Thread Group 1-7,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,223,0,0
+1737002233156,463,ub-library,200,OK,Thread Group 1-9,text,true,,93837,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,225,0,0
+1737002233191,463,ub-finance,200,OK,Thread Group 1-8,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,235,0,0
+1737002233177,484,ub-announcements,200,OK,Thread Group 1-10,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,244,0,0
+1737002233061,713,ub-exchange student,200,OK,Thread Group 1-6,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,235,0,0
+1737002233236,656,ub-FET,200,OK,Thread Group 1-2,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,226,0,0
+1737002233618,442,ub-health center,200,OK,Thread Group 1-7,text,true,,84439,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,255,0,0
+1737002233619,560,ub-sports,200,OK,Thread Group 1-9,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,263,0,0
+1737002233655,528,ub-exchange student,200,OK,Thread Group 1-8,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,243,0,0
+1737002233662,539,ub-news,200,OK,Thread Group 1-10,text,true,,88837,140,11,11,https://www.ubuea.cm/index.php/news-updates/,257,0,0
+1737002233893,531,ub-httc application form,200,OK,Thread Group 1-2,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,291,0,0
+1737002233472,954,ub-job opportunities,200,OK,Thread Group 1-11,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,243,0,0
+1737002231256,3173,ub homepage,200,OK,Thread Group 1-13,text,true,,155195,117,11,11,https://www.ubuea.cm/,762,0,524
+1737002234063,418,ub-Admission requirements,200,OK,Thread Group 1-7,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,410,0,0
+1737002233308,1207,why us,200,OK,Thread Group 1-12,text,true,,92131,136,11,11,https://www.ubuea.cm/index.php/about-us/,239,0,0
+1737002234184,483,ub-transportation,200,OK,Thread Group 1-8,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,255,0,0
+1737002233775,895,ub-transportation,200,OK,Thread Group 1-6,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,239,0,0
+1737002234182,498,ub-finance,200,OK,Thread Group 1-9,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,268,0,0
+1737002234202,528,ub-library,200,OK,Thread Group 1-10,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,285,0,0
+1737002234483,280,ub-fee and scholarships,200,OK,Thread Group 1-7,text,true,,81109,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,260,0,0
+1737002234428,505,ub-announcements,200,OK,Thread Group 1-11,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,264,0,0
+1737002234763,283,ub-faculties and schools,200,OK,Thread Group 1-7,text,true,,85466,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,265,0,0
+1737002234669,502,ub-health center,200,OK,Thread Group 1-8,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,271,0,0
+1737002234680,524,ub-exchange student,200,OK,Thread Group 1-9,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002234516,750,ub-job opportunities,200,OK,Thread Group 1-12,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,257,0,0
+1737002234730,554,ub-sports,200,OK,Thread Group 1-10,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,309,0,0
+1737002235050,276,ub-FET,200,OK,Thread Group 1-7,text,true,,88323,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,243,0,0
+1737002232271,3115,ub homepage,200,OK,Thread Group 1-14,text,true,,155195,117,12,12,https://www.ubuea.cm/,740,0,503
+1737002235172,260,ub-Admission requirements,200,OK,Thread Group 1-8,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,244,0,0
+1737002234934,507,ub-news,200,OK,Thread Group 1-11,text,true,,88837,140,12,12,https://www.ubuea.cm/index.php/news-updates/,264,0,0
+1737002234671,775,ub-health center,200,OK,Thread Group 1-6,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,286,0,0
+1737002235207,265,ub-transportation,200,OK,Thread Group 1-9,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,245,0,0
+1737002235328,270,ub-httc application form,200,OK,Thread Group 1-7,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,257,0,0
+1737002234431,1179,why us,200,OK,Thread Group 1-13,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,253,0,0
+1737002235433,261,ub-fee and scholarships,200,OK,Thread Group 1-8,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,243,0,0
+1737002235473,260,ub-health center,200,OK,Thread Group 1-9,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,242,0,0
+1737002235266,546,ub-announcements,200,OK,Thread Group 1-12,text,true,,67654,141,11,11,https://www.ubuea.cm/index.php/announcements/,298,0,0
+1737002235284,530,ub-finance,200,OK,Thread Group 1-10,text,true,,80694,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,291,0,0
+1737002235441,493,ub-library,200,OK,Thread Group 1-11,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,255,0,0
+1737002235694,271,ub-faculties and schools,200,OK,Thread Group 1-8,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,252,0,0
+1737002235733,268,ub-Admission requirements,200,OK,Thread Group 1-9,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,249,0,0
+1737002235446,715,ub-Admission requirements,200,OK,Thread Group 1-6,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,256,0,0
+1737002235966,254,ub-FET,200,OK,Thread Group 1-8,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,224,0,0
+1737002236002,254,ub-fee and scholarships,200,OK,Thread Group 1-9,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,235,0,0
+1737002233293,2963,ub homepage,200,OK,Thread Group 1-15,text,true,,155195,117,11,11,https://www.ubuea.cm/,712,0,476
+1737002235812,517,ub-news,200,OK,Thread Group 1-12,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,248,0,0
+1737002235611,726,ub-job opportunities,200,OK,Thread Group 1-13,text,true,,93087,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,231,0,0
+1737002235814,530,ub-exchange student,200,OK,Thread Group 1-10,text,true,,87247,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,252,0,0
+1737002235935,458,ub-sports,200,OK,Thread Group 1-11,text,true,,83751,153,12,12,https://www.ubuea.cm/index.php/student-engagement/sports/,235,0,0
+1737002236221,248,ub-httc application form,200,OK,Thread Group 1-8,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,230,0,0
+1737002236256,253,ub-faculties and schools,200,OK,Thread Group 1-9,text,true,,85466,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,240,0,0
+1737002235389,1226,why us,200,OK,Thread Group 1-14,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,244,0,0
+1737002236509,271,ub-FET,200,OK,Thread Group 1-9,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,262,0,0
+1737002236330,512,ub-library,200,OK,Thread Group 1-12,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,277,0,0
+1737002236393,472,ub-finance,200,OK,Thread Group 1-11,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,239,0,0
+1737002236162,706,ub-fee and scholarships,200,OK,Thread Group 1-6,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,250,0,0
+1737002236781,255,ub-httc application form,200,OK,Thread Group 1-9,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,243,0,0
+1737002236338,750,ub-announcements,200,OK,Thread Group 1-13,text,true,,67644,141,10,10,https://www.ubuea.cm/index.php/announcements/,280,0,0
+1737002234315,3017,ub homepage,200,OK,Thread Group 1-16,text,true,,155195,117,10,10,https://www.ubuea.cm/,765,0,482
+1737002236866,476,ub-exchange student,200,OK,Thread Group 1-11,text,true,,87237,168,10,10,https://www.ubuea.cm/index.php/international-students/exchange-students/,252,0,0
+1737002236616,729,ub-job opportunities,200,OK,Thread Group 1-14,text,true,,93072,154,10,10,https://www.ubuea.cm/index.php/about-us/job-opportunities/,257,0,0
+1737002236843,525,ub-sports,200,OK,Thread Group 1-12,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,287,0,0
+1737002236258,1117,why us,200,OK,Thread Group 1-15,text,true,,92111,136,10,10,https://www.ubuea.cm/index.php/about-us/,231,0,0
+1737002236868,728,ub-faculties and schools,200,OK,Thread Group 1-6,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,251,0,0
+1737002237343,284,ub-transportation,200,OK,Thread Group 1-11,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,271,0,0
+1737002236345,1302,ub-transportation,200,OK,Thread Group 1-10,text,true,,81859,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,272,0,0
+1737002237346,550,ub-announcements,200,OK,Thread Group 1-14,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,286,0,0
+1737002237369,528,ub-finance,200,OK,Thread Group 1-12,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,271,0,0
+1737002237628,293,ub-health center,200,OK,Thread Group 1-11,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,273,0,0
+1737002237089,937,ub-news,200,OK,Thread Group 1-13,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,260,0,0
+1737002237597,514,ub-FET,200,OK,Thread Group 1-6,text,true,,88308,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,264,0,0
+1737002237647,531,ub-health center,200,OK,Thread Group 1-10,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,279,0,0
+1737002237922,269,ub-Admission requirements,200,OK,Thread Group 1-11,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,258,0,0
+1737002237376,949,ub-job opportunities,200,OK,Thread Group 1-15,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,252,0,0
+1737002237897,510,ub-news,200,OK,Thread Group 1-14,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,247,0,0
+1737002235337,3095,ub homepage,200,OK,Thread Group 1-17,text,true,,155200,117,12,12,https://www.ubuea.cm/,748,0,500
+1737002237334,1148,why us,200,OK,Thread Group 1-16,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,246,0,0
+1737002238112,483,ub-httc application form,200,OK,Thread Group 1-6,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,248,0,0
+1737002237897,715,ub-exchange student,200,OK,Thread Group 1-12,text,true,,87242,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002238027,705,ub-library,200,OK,Thread Group 1-13,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,242,0,0
+1737002238326,463,ub-announcements,200,OK,Thread Group 1-15,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,242,0,0
+1737002238179,717,ub-Admission requirements,200,OK,Thread Group 1-10,text,true,,82421,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,264,0,0
+1737002238408,496,ub-library,200,OK,Thread Group 1-14,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,243,0,0
+1737002238191,946,ub-fee and scholarships,200,OK,Thread Group 1-11,text,true,,81109,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,261,0,0
+1737002238790,461,ub-news,200,OK,Thread Group 1-15,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,245,0,0
+1737002238613,690,ub-transportation,200,OK,Thread Group 1-12,text,true,,81854,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,240,0,0
+1737002238904,528,ub-sports,200,OK,Thread Group 1-14,text,true,,83751,153,12,12,https://www.ubuea.cm/index.php/student-engagement/sports/,263,0,0
+1737002238896,541,ub-fee and scholarships,200,OK,Thread Group 1-10,text,true,,81114,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,283,0,0
+1737002236370,3072,ub homepage,200,OK,Thread Group 1-18,text,true,,155195,117,12,12,https://www.ubuea.cm/,772,0,512
+1737002238733,710,ub-sports,200,OK,Thread Group 1-13,text,true,,83751,153,12,12,https://www.ubuea.cm/index.php/student-engagement/sports/,247,0,0
+1737002238483,960,ub-job opportunities,200,OK,Thread Group 1-16,text,true,,93082,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,264,0,0
+1737002238433,1166,why us,200,OK,Thread Group 1-17,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,246,0,0
+1737002239137,474,ub-faculties and schools,200,OK,Thread Group 1-11,text,true,,85466,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,239,0,0
+1737002239251,488,ub-library,200,OK,Thread Group 1-15,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,240,0,0
+1737002239302,486,ub-health center,200,OK,Thread Group 1-12,text,true,,84439,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,249,0,0
+1737002239431,489,ub-finance,200,OK,Thread Group 1-14,text,true,,80684,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,263,0,0
+1737002239442,536,ub-finance,200,OK,Thread Group 1-13,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,296,0,0
+1737002239443,538,ub-announcements,200,OK,Thread Group 1-16,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,294,0,0
+1737002239436,548,ub-faculties and schools,200,OK,Thread Group 1-10,text,true,,85476,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,300,0,0
+1737002239611,476,ub-FET,200,OK,Thread Group 1-11,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,233,0,0
+1737002239739,472,ub-sports,200,OK,Thread Group 1-15,text,true,,83751,153,12,12,https://www.ubuea.cm/index.php/student-engagement/sports/,247,0,0
+1737002239790,487,ub-Admission requirements,200,OK,Thread Group 1-12,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,233,0,0
+1737002239598,711,ub-job opportunities,200,OK,Thread Group 1-17,text,true,,93072,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,238,0,0
+1737002240088,247,ub-httc application form,200,OK,Thread Group 1-11,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,228,0,0
+1737002239921,479,ub-exchange student,200,OK,Thread Group 1-14,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,239,0,0
+1737002237389,3032,ub homepage,200,OK,Thread Group 1-19,text,true,,155195,117,11,11,https://www.ubuea.cm/,803,0,550
+1737002239982,508,ub-news,200,OK,Thread Group 1-16,text,true,,88827,140,12,12,https://www.ubuea.cm/index.php/news-updates/,266,0,0
+1737002239984,513,ub-FET,200,OK,Thread Group 1-10,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,275,0,0
+1737002239979,546,ub-exchange student,200,OK,Thread Group 1-13,text,true,,87237,168,12,12,https://www.ubuea.cm/index.php/international-students/exchange-students/,301,0,0
+1737002239441,1185,why us,200,OK,Thread Group 1-18,text,true,,92131,136,12,12,https://www.ubuea.cm/index.php/about-us/,295,0,0
+1737002240212,461,ub-finance,200,OK,Thread Group 1-15,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,236,0,0
+1737002240278,486,ub-fee and scholarships,200,OK,Thread Group 1-12,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,249,0,0
+1737002240309,475,ub-announcements,200,OK,Thread Group 1-17,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,238,0,0
+1737002240498,463,ub-httc application form,200,OK,Thread Group 1-10,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,241,0,0
+1737002240493,509,ub-library,200,OK,Thread Group 1-16,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,254,0,0
+1737002240526,487,ub-transportation,200,OK,Thread Group 1-13,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,244,0,0
+1737002240675,447,ub-exchange student,200,OK,Thread Group 1-15,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,234,0,0
+1737002240784,507,ub-news,200,OK,Thread Group 1-17,text,true,,88837,140,11,11,https://www.ubuea.cm/index.php/news-updates/,245,0,0
+1737002240765,543,ub-faculties and schools,200,OK,Thread Group 1-12,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,276,0,0
+1737002240627,691,ub-job opportunities,200,OK,Thread Group 1-18,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,234,0,0
+1737002238414,2938,ub homepage,200,OK,Thread Group 1-20,text,true,,155195,117,11,11,https://www.ubuea.cm/,776,0,499
+1737002240401,1014,ub-transportation,200,OK,Thread Group 1-14,text,true,,81859,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,235,0,0
+1737002241016,505,ub-health center,200,OK,Thread Group 1-13,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,261,0,0
+1737002241003,528,ub-sports,200,OK,Thread Group 1-16,text,true,,83751,153,12,12,https://www.ubuea.cm/index.php/student-engagement/sports/,279,0,0
+1737002240421,1119,why us,200,OK,Thread Group 1-19,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,241,0,0
+1737002241123,458,ub-transportation,200,OK,Thread Group 1-15,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,238,0,0
+1737002241292,499,ub-library,200,OK,Thread Group 1-17,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,255,0,0
+1737002241308,503,ub-FET,200,OK,Thread Group 1-12,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,261,0,0
+1737002241582,256,ub-health center,200,OK,Thread Group 1-15,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,240,0,0
+1737002241318,522,ub-announcements,200,OK,Thread Group 1-18,text,true,,67654,141,12,12,https://www.ubuea.cm/index.php/announcements/,274,0,0
+1737002241415,482,ub-health center,200,OK,Thread Group 1-14,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,240,0,0
+1737002241522,495,ub-Admission requirements,200,OK,Thread Group 1-13,text,true,,82421,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,251,0,0
+1737002241531,608,ub-finance,200,OK,Thread Group 1-16,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,286,0,0
+1737002241839,316,ub-Admission requirements,200,OK,Thread Group 1-15,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,308,0,0
+1737002241812,353,ub-httc application form,200,OK,Thread Group 1-12,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,345,0,0
+1737002241791,569,ub-sports,200,OK,Thread Group 1-17,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,334,0,0
+1737002241841,575,ub-news,200,OK,Thread Group 1-18,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,326,0,0
+1737002242156,282,ub-fee and scholarships,200,OK,Thread Group 1-15,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,271,0,0
+1737002239429,3010,ub homepage,200,OK,Thread Group 1-21,text,true,,155200,117,11,11,https://www.ubuea.cm/,724,0,473
+1737002241540,957,ub-job opportunities,200,OK,Thread Group 1-19,text,true,,93077,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,263,0,0
+1737002242018,554,ub-fee and scholarships,200,OK,Thread Group 1-13,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,284,0,0
+1737002241353,1236,why us,200,OK,Thread Group 1-20,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,249,0,0
+1737002241898,760,ub-Admission requirements,200,OK,Thread Group 1-14,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,274,0,0
+1737002242139,538,ub-exchange student,200,OK,Thread Group 1-16,text,true,,87237,168,12,12,https://www.ubuea.cm/index.php/international-students/exchange-students/,301,0,0
+1737002242438,258,ub-faculties and schools,200,OK,Thread Group 1-15,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,243,0,0
+1737002242360,482,ub-finance,200,OK,Thread Group 1-17,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,249,0,0
+1737002242417,487,ub-library,200,OK,Thread Group 1-18,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,245,0,0
+1737002242497,462,ub-announcements,200,OK,Thread Group 1-19,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,233,0,0
+1737002242696,310,ub-FET,200,OK,Thread Group 1-15,text,true,,88313,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,278,0,0
+1737002242573,489,ub-faculties and schools,200,OK,Thread Group 1-13,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,257,0,0
+1737002242659,491,ub-fee and scholarships,200,OK,Thread Group 1-14,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,251,0,0
+1737002242678,518,ub-transportation,200,OK,Thread Group 1-16,text,true,,81854,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,283,0,0
+1737002243007,236,ub-httc application form,200,OK,Thread Group 1-15,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,224,0,0
+1737002242591,723,ub-job opportunities,200,OK,Thread Group 1-20,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,254,0,0
+1737002242843,474,ub-exchange student,200,OK,Thread Group 1-17,text,true,,87242,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,241,0,0
+1737002242905,476,ub-sports,200,OK,Thread Group 1-18,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,248,0,0
+1737002240456,2994,ub homepage,200,OK,Thread Group 1-22,text,true,,155210,117,11,11,https://www.ubuea.cm/,720,0,485
+1737002242959,503,ub-news,200,OK,Thread Group 1-19,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,258,0,0
+1737002243151,498,ub-faculties and schools,200,OK,Thread Group 1-14,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,240,0,0
+1737002242439,1218,why us,200,OK,Thread Group 1-21,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,258,0,0
+1737002243197,496,ub-health center,200,OK,Thread Group 1-16,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,243,0,0
+1737002243317,474,ub-transportation,200,OK,Thread Group 1-17,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,250,0,0
+1737002243062,740,ub-FET,200,OK,Thread Group 1-13,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,269,0,0
+1737002243316,504,ub-announcements,200,OK,Thread Group 1-20,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,266,0,0
+1737002243382,480,ub-finance,200,OK,Thread Group 1-18,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,252,0,0
+1737002243462,481,ub-library,200,OK,Thread Group 1-19,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,238,0,0
+1737002243650,526,ub-FET,200,OK,Thread Group 1-14,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,289,0,0
+1737002243693,513,ub-Admission requirements,200,OK,Thread Group 1-16,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,276,0,0
+1737002243802,488,ub-httc application form,200,OK,Thread Group 1-13,text,true,,63373,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,256,0,0
+1737002243791,503,ub-health center,200,OK,Thread Group 1-17,text,true,,84434,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,287,0,0
+1737002243820,505,ub-news,200,OK,Thread Group 1-20,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,260,0,0
+1737002243862,469,ub-exchange student,200,OK,Thread Group 1-18,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,237,0,0
+1737002243658,763,ub-job opportunities,200,OK,Thread Group 1-21,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,253,0,0
+1737002243948,483,ub-sports,200,OK,Thread Group 1-19,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,244,0,0
+1737002241472,2963,ub homepage,200,OK,Thread Group 1-23,text,true,,155200,117,11,11,https://www.ubuea.cm/,713,0,459
+1737002244296,272,ub-Admission requirements,200,OK,Thread Group 1-17,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,246,0,0
+1737002243451,1133,why us,200,OK,Thread Group 1-22,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,244,0,0
+1737002244178,501,ub-httc application form,200,OK,Thread Group 1-14,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,259,0,0
+1737002244208,507,ub-fee and scholarships,200,OK,Thread Group 1-16,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,246,0,0
+1737002244569,256,ub-fee and scholarships,200,OK,Thread Group 1-17,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,244,0,0
+1737002244332,520,ub-transportation,200,OK,Thread Group 1-18,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,265,0,0
+1737002244327,528,ub-library,200,OK,Thread Group 1-20,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,264,0,0
+1737002244433,477,ub-finance,200,OK,Thread Group 1-19,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,264,0,0
+1737002244423,516,ub-announcements,200,OK,Thread Group 1-21,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,281,0,0
+1737002244826,281,ub-faculties and schools,200,OK,Thread Group 1-17,text,true,,85466,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,253,0,0
+1737002244715,465,ub-faculties and schools,200,OK,Thread Group 1-16,text,true,,85466,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,229,0,0
+1737002244852,485,ub-health center,200,OK,Thread Group 1-18,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,257,0,0
+1737002244855,519,ub-sports,200,OK,Thread Group 1-20,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,274,0,0
+1737002244911,468,ub-exchange student,200,OK,Thread Group 1-19,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,238,0,0
+1737002245108,283,ub-FET,200,OK,Thread Group 1-17,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,273,0,0
+1737002242490,2925,ub homepage,200,OK,Thread Group 1-24,text,true,,155195,117,11,11,https://www.ubuea.cm/,721,0,470
+1737002244940,498,ub-news,200,OK,Thread Group 1-21,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,242,0,0
+1737002244585,894,ub-job opportunities,200,OK,Thread Group 1-22,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,242,0,0
+1737002245338,257,ub-Admission requirements,200,OK,Thread Group 1-18,text,true,,82411,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,237,0,0
+1737002244436,1210,why us,200,OK,Thread Group 1-23,text,true,,92126,136,12,12,https://www.ubuea.cm/index.php/about-us/,270,0,0
+1737002245391,286,ub-httc application form,200,OK,Thread Group 1-17,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,264,0,0
+1737002245181,498,ub-FET,200,OK,Thread Group 1-16,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,261,0,0
+1737002245595,256,ub-fee and scholarships,200,OK,Thread Group 1-18,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,240,0,0
+1737002245375,483,ub-finance,200,OK,Thread Group 1-20,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,247,0,0
+1737002245380,501,ub-transportation,200,OK,Thread Group 1-19,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,265,0,0
+1737002245679,249,ub-httc application form,200,OK,Thread Group 1-16,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,243,0,0
+1737002245438,518,ub-library,200,OK,Thread Group 1-21,text,true,,93827,152,10,10,https://www.ubuea.cm/index.php/student-services/library/,272,0,0
+1737002245479,485,ub-announcements,200,OK,Thread Group 1-22,text,true,,67654,141,10,10,https://www.ubuea.cm/index.php/announcements/,243,0,0
+1737002245852,256,ub-faculties and schools,200,OK,Thread Group 1-18,text,true,,85461,145,10,10,https://www.ubuea.cm/index.php/faculties-schools/,241,0,0
+1737002245882,331,ub-health center,200,OK,Thread Group 1-19,text,true,,84429,158,10,10,https://www.ubuea.cm/index.php/student-services/health-center/,319,0,0
+1737002245858,500,ub-exchange student,200,OK,Thread Group 1-20,text,true,,87237,168,10,10,https://www.ubuea.cm/index.php/international-students/exchange-students/,252,0,0
+1737002246109,289,ub-FET,200,OK,Thread Group 1-18,text,true,,88303,187,10,10,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,271,0,0
+1737002245965,525,ub-news,200,OK,Thread Group 1-22,text,true,,88827,140,10,10,https://www.ubuea.cm/index.php/news-updates/,261,0,0
+1737002245957,536,ub-sports,200,OK,Thread Group 1-21,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,275,0,0
+1737002246214,382,ub-Admission requirements,200,OK,Thread Group 1-19,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,280,0,0
+1737002243508,3089,ub homepage,200,OK,Thread Group 1-25,text,true,,155195,117,11,11,https://www.ubuea.cm/,730,0,490
+1737002245648,951,ub-job opportunities,200,OK,Thread Group 1-23,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,249,0,0
+1737002245416,1307,why us,200,OK,Thread Group 1-24,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,262,0,0
+1737002246597,271,ub-fee and scholarships,200,OK,Thread Group 1-19,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,261,0,0
+1737002246358,564,ub-transportation,200,OK,Thread Group 1-20,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,348,0,0
+1737002246490,503,ub-library,200,OK,Thread Group 1-22,text,true,,93832,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,237,0,0
+1737002246493,509,ub-finance,200,OK,Thread Group 1-21,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,280,0,0
+1737002246599,594,ub-announcements,200,OK,Thread Group 1-23,text,true,,67654,141,11,11,https://www.ubuea.cm/index.php/announcements/,270,0,0
+1737002246868,338,ub-faculties and schools,200,OK,Thread Group 1-19,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,329,0,0
+1737002246922,296,ub-health center,200,OK,Thread Group 1-20,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,286,0,0
+1737002246724,743,ub-job opportunities,200,OK,Thread Group 1-24,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,272,0,0
+1737002246995,502,ub-sports,200,OK,Thread Group 1-22,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,242,0,0
+1737002247003,497,ub-exchange student,200,OK,Thread Group 1-21,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,245,0,0
+1737002247194,484,ub-news,200,OK,Thread Group 1-23,text,true,,88827,140,12,12,https://www.ubuea.cm/index.php/news-updates/,249,0,0
+1737002244527,3164,ub homepage,200,OK,Thread Group 1-26,text,true,,155210,117,12,12,https://www.ubuea.cm/,735,0,477
+1737002247207,518,ub-FET,200,OK,Thread Group 1-19,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,266,0,0
+1737002246398,1333,ub-httc application form,200,OK,Thread Group 1-18,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,319,0,0
+1737002246598,1140,why us,200,OK,Thread Group 1-25,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,249,0,0
+1737002247468,479,ub-announcements,200,OK,Thread Group 1-24,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,246,0,0
+1737002247498,467,ub-finance,200,OK,Thread Group 1-22,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,242,0,0
+1737002247500,482,ub-transportation,200,OK,Thread Group 1-21,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,250,0,0
+1737002247679,478,ub-library,200,OK,Thread Group 1-23,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,228,0,0
+1737002247726,506,ub-httc application form,200,OK,Thread Group 1-19,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,245,0,0
+1737002247219,1017,ub-Admission requirements,200,OK,Thread Group 1-20,text,true,,82406,173,10,10,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,253,0,0
+1737002247982,262,ub-health center,200,OK,Thread Group 1-21,text,true,,84429,158,10,10,https://www.ubuea.cm/index.php/student-services/health-center/,255,0,0
+1737002247947,494,ub-news,200,OK,Thread Group 1-24,text,true,,88832,140,10,10,https://www.ubuea.cm/index.php/news-updates/,240,0,0
+1737002247966,483,ub-exchange student,200,OK,Thread Group 1-22,text,true,,87237,168,10,10,https://www.ubuea.cm/index.php/international-students/exchange-students/,269,0,0
+1737002245544,3051,ub homepage,200,OK,Thread Group 1-27,text,true,,155195,117,10,10,https://www.ubuea.cm/,718,0,453
+1737002248158,474,ub-sports,200,OK,Thread Group 1-23,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,245,0,0
+1737002247738,1072,ub-job opportunities,200,OK,Thread Group 1-25,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,273,0,0
+1737002247692,1140,why us,200,OK,Thread Group 1-26,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,251,0,0
+1737002248450,445,ub-transportation,200,OK,Thread Group 1-22,text,true,,81854,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,233,0,0
+1737002248442,606,ub-library,200,OK,Thread Group 1-24,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,363,0,0
+1737002248237,819,ub-fee and scholarships,200,OK,Thread Group 1-20,text,true,,81124,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,251,0,0
+1737002248244,814,ub-Admission requirements,200,OK,Thread Group 1-21,text,true,,82421,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,252,0,0
+1737002248633,461,ub-finance,200,OK,Thread Group 1-23,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,232,0,0
+1737002248895,249,ub-health center,200,OK,Thread Group 1-22,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,234,0,0
+1737002248811,507,ub-announcements,200,OK,Thread Group 1-25,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,255,0,0
+1737002249146,267,ub-Admission requirements,200,OK,Thread Group 1-22,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,231,0,0
+1737002249050,479,ub-sports,200,OK,Thread Group 1-24,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,246,0,0
+1737002248833,729,ub-job opportunities,200,OK,Thread Group 1-26,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,248,0,0
+1737002249059,506,ub-fee and scholarships,200,OK,Thread Group 1-21,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,266,0,0
+1737002246564,3001,ub homepage,200,OK,Thread Group 1-28,text,true,,155205,117,11,11,https://www.ubuea.cm/,711,0,476
+1737002249096,483,ub-exchange student,200,OK,Thread Group 1-23,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002249058,526,ub-faculties and schools,200,OK,Thread Group 1-20,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,281,0,0
+1737002249413,260,ub-fee and scholarships,200,OK,Thread Group 1-22,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,246,0,0
+1737002248600,1111,why us,200,OK,Thread Group 1-27,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,241,0,0
+1737002249320,509,ub-news,200,OK,Thread Group 1-25,text,true,,88837,140,12,12,https://www.ubuea.cm/index.php/news-updates/,265,0,0
+1737002249530,481,ub-finance,200,OK,Thread Group 1-24,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,252,0,0
+1737002249563,478,ub-announcements,200,OK,Thread Group 1-26,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,244,0,0
+1737002249566,490,ub-faculties and schools,200,OK,Thread Group 1-21,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,246,0,0
+1737002249579,481,ub-transportation,200,OK,Thread Group 1-23,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,252,0,0
+1737002249585,489,ub-FET,200,OK,Thread Group 1-20,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,258,0,0
+1737002249674,443,ub-faculties and schools,200,OK,Thread Group 1-22,text,true,,85471,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,224,0,0
+1737002250060,248,ub-health center,200,OK,Thread Group 1-23,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,240,0,0
+1737002249830,505,ub-library,200,OK,Thread Group 1-25,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,256,0,0
+1737002250117,245,ub-FET,200,OK,Thread Group 1-22,text,true,,88313,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,229,0,0
+1737002249713,801,ub-job opportunities,200,OK,Thread Group 1-27,text,true,,93087,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,240,0,0
+1737002250015,505,ub-exchange student,200,OK,Thread Group 1-24,text,true,,87237,168,12,12,https://www.ubuea.cm/index.php/international-students/exchange-students/,237,0,0
+1737002250041,490,ub-news,200,OK,Thread Group 1-26,text,true,,88827,140,12,12,https://www.ubuea.cm/index.php/news-updates/,253,0,0
+1737002250075,480,ub-httc application form,200,OK,Thread Group 1-20,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,247,0,0
+1737002250057,500,ub-FET,200,OK,Thread Group 1-21,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,253,0,0
+1737002250308,283,ub-Admission requirements,200,OK,Thread Group 1-23,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,272,0,0
+1737002250363,246,ub-httc application form,200,OK,Thread Group 1-22,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,234,0,0
+1737002247579,3029,ub homepage,200,OK,Thread Group 1-29,text,true,,155205,117,11,11,https://www.ubuea.cm/,734,0,482
+1737002249567,1182,why us,200,OK,Thread Group 1-28,text,true,,92131,136,11,11,https://www.ubuea.cm/index.php/about-us/,230,0,0
+1737002250558,281,ub-httc application form,200,OK,Thread Group 1-21,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,274,0,0
+1737002250592,259,ub-fee and scholarships,200,OK,Thread Group 1-23,text,true,,81109,145,10,10,https://www.ubuea.cm/index.php/fees-scholarships/,248,0,0
+1737002250335,519,ub-sports,200,OK,Thread Group 1-25,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,276,0,0
+1737002250532,505,ub-library,200,OK,Thread Group 1-26,text,true,,93827,152,10,10,https://www.ubuea.cm/index.php/student-services/library/,272,0,0
+1737002250514,533,ub-announcements,200,OK,Thread Group 1-27,text,true,,67644,141,10,10,https://www.ubuea.cm/index.php/announcements/,298,0,0
+1737002250520,529,ub-transportation,200,OK,Thread Group 1-24,text,true,,81849,159,10,10,https://www.ubuea.cm/index.php/student-services/transportation/,297,0,0
+1737002250852,260,ub-faculties and schools,200,OK,Thread Group 1-23,text,true,,85461,145,10,10,https://www.ubuea.cm/index.php/faculties-schools/,251,0,0
+1737002250855,487,ub-finance,200,OK,Thread Group 1-25,text,true,,80674,155,10,10,https://www.ubuea.cm/index.php/student-services/ub-finance/,258,0,0
+1737002251112,272,ub-FET,200,OK,Thread Group 1-23,text,true,,88303,187,10,10,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,261,0,0
+1737002250750,705,ub-job opportunities,200,OK,Thread Group 1-28,text,true,,93077,154,10,10,https://www.ubuea.cm/index.php/about-us/job-opportunities/,245,0,0
+1737002251038,462,ub-sports,200,OK,Thread Group 1-26,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,235,0,0
+1737002251048,505,ub-news,200,OK,Thread Group 1-27,text,true,,88837,140,10,10,https://www.ubuea.cm/index.php/news-updates/,246,0,0
+1737002251049,508,ub-health center,200,OK,Thread Group 1-24,text,true,,84429,158,10,10,https://www.ubuea.cm/index.php/student-services/health-center/,256,0,0
+1737002251385,273,ub-httc application form,200,OK,Thread Group 1-23,text,true,,63363,183,10,10,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,240,0,0
+1737002248611,3049,ub homepage,200,OK,Thread Group 1-30,text,true,,155195,117,9,9,https://www.ubuea.cm/,759,0,485
+1737002251343,507,ub-exchange student,200,OK,Thread Group 1-25,text,true,,87237,168,10,10,https://www.ubuea.cm/index.php/international-students/exchange-students/,241,0,0
+1737002250610,1248,why us,200,OK,Thread Group 1-29,text,true,,92116,136,10,10,https://www.ubuea.cm/index.php/about-us/,246,0,0
+1737002251456,467,ub-announcements,200,OK,Thread Group 1-28,text,true,,67644,141,10,10,https://www.ubuea.cm/index.php/announcements/,231,0,0
+1737002251554,538,ub-library,200,OK,Thread Group 1-27,text,true,,93862,152,10,10,https://www.ubuea.cm/index.php/student-services/library/,308,0,0
+1737002251851,251,ub-transportation,200,OK,Thread Group 1-25,text,true,,81849,159,10,10,https://www.ubuea.cm/index.php/student-services/transportation/,243,0,0
+1737002251557,548,ub-Admission requirements,200,OK,Thread Group 1-24,text,true,,82406,173,10,10,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,308,0,0
+1737002251500,819,ub-finance,200,OK,Thread Group 1-26,text,true,,80674,155,10,10,https://www.ubuea.cm/index.php/student-services/ub-finance/,237,0,0
+1737002251923,509,ub-news,200,OK,Thread Group 1-28,text,true,,88827,140,10,10,https://www.ubuea.cm/index.php/news-updates/,231,0,0
+1737002251859,725,ub-job opportunities,200,OK,Thread Group 1-29,text,true,,93072,154,10,10,https://www.ubuea.cm/index.php/about-us/job-opportunities/,247,0,0
+1737002252093,501,ub-sports,200,OK,Thread Group 1-27,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,260,0,0
+1737002252105,512,ub-fee and scholarships,200,OK,Thread Group 1-24,text,true,,81119,145,10,10,https://www.ubuea.cm/index.php/fees-scholarships/,257,0,0
+1737002249626,3145,ub homepage,200,OK,Thread Group 1-31,text,true,,155195,117,11,11,https://www.ubuea.cm/,717,0,480
+1737002252320,483,ub-exchange student,200,OK,Thread Group 1-26,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,245,0,0
+1737002251662,1159,why us,200,OK,Thread Group 1-30,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,233,0,0
+1737002252432,471,ub-library,200,OK,Thread Group 1-28,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,231,0,0
+1737002252102,970,ub-health center,200,OK,Thread Group 1-25,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,261,0,0
+1737002252584,492,ub-announcements,200,OK,Thread Group 1-29,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,247,0,0
+1737002252804,485,ub-transportation,200,OK,Thread Group 1-26,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,248,0,0
+1737002252618,693,ub-faculties and schools,200,OK,Thread Group 1-24,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,239,0,0
+1737002252903,478,ub-sports,200,OK,Thread Group 1-28,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,246,0,0
+1737002252594,921,ub-finance,200,OK,Thread Group 1-27,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,251,0,0
+1737002252821,739,ub-job opportunities,200,OK,Thread Group 1-30,text,true,,93077,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,257,0,0
+1737002253073,501,ub-Admission requirements,200,OK,Thread Group 1-25,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,260,0,0
+1737002253077,519,ub-news,200,OK,Thread Group 1-29,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,268,0,0
+1737002250644,2965,ub homepage,200,OK,Thread Group 1-32,text,true,,155200,117,11,11,https://www.ubuea.cm/,751,0,486
+1737002253290,512,ub-health center,200,OK,Thread Group 1-26,text,true,,84459,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,272,0,0
+1737002253312,496,ub-FET,200,OK,Thread Group 1-24,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,263,0,0
+1737002253381,568,ub-finance,200,OK,Thread Group 1-28,text,true,,80679,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,241,0,0
+1737002252772,1179,why us,200,OK,Thread Group 1-31,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,242,0,0
+1737002253516,478,ub-exchange student,200,OK,Thread Group 1-27,text,true,,87237,168,12,12,https://www.ubuea.cm/index.php/international-students/exchange-students/,244,0,0
+1737002253575,597,ub-fee and scholarships,200,OK,Thread Group 1-25,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,354,0,0
+1737002253560,618,ub-announcements,200,OK,Thread Group 1-30,text,true,,67659,141,12,12,https://www.ubuea.cm/index.php/announcements/,364,0,0
+1737002253596,587,ub-library,200,OK,Thread Group 1-29,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,343,0,0
+1737002253802,474,ub-Admission requirements,200,OK,Thread Group 1-26,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,236,0,0
+1737002253808,475,ub-httc application form,200,OK,Thread Group 1-24,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,244,0,0
+1737002253950,469,ub-exchange student,200,OK,Thread Group 1-28,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,243,0,0
+1737002253995,503,ub-transportation,200,OK,Thread Group 1-27,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,238,0,0
+1737002254178,495,ub-news,200,OK,Thread Group 1-30,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,242,0,0
+1737002254183,493,ub-sports,200,OK,Thread Group 1-29,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,253,0,0
+1737002251664,3019,ub homepage,200,OK,Thread Group 1-33,text,true,,155205,117,11,11,https://www.ubuea.cm/,732,0,485
+1737002254172,550,ub-faculties and schools,200,OK,Thread Group 1-25,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,316,0,0
+1737002253951,779,ub-job opportunities,200,OK,Thread Group 1-31,text,true,,93072,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,258,0,0
+1737002254275,464,ub-fee and scholarships,200,OK,Thread Group 1-26,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,227,0,0
+1737002253609,1200,why us,200,OK,Thread Group 1-32,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,337,0,0
+1737002254419,496,ub-transportation,200,OK,Thread Group 1-28,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,278,0,0
+1737002254497,557,ub-health center,200,OK,Thread Group 1-27,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,243,0,0
+1737002254673,502,ub-library,200,OK,Thread Group 1-30,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,253,0,0
+1737002254676,500,ub-finance,200,OK,Thread Group 1-29,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,261,0,0
+1737002254723,541,ub-FET,200,OK,Thread Group 1-25,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,316,0,0
+1737002254739,558,ub-faculties and schools,200,OK,Thread Group 1-26,text,true,,85466,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,323,0,0
+1737002254729,573,ub-announcements,200,OK,Thread Group 1-31,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,327,0,0
+1737002254916,456,ub-health center,200,OK,Thread Group 1-28,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,243,0,0
+1737002255265,245,ub-httc application form,200,OK,Thread Group 1-25,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,238,0,0
+1737002255055,485,ub-Admission requirements,200,OK,Thread Group 1-27,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,246,0,0
+1737002254808,786,ub-job opportunities,200,OK,Thread Group 1-32,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,263,0,0
+1737002255373,249,ub-Admission requirements,200,OK,Thread Group 1-28,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,238,0,0
+1737002255175,536,ub-sports,200,OK,Thread Group 1-30,text,true,,83756,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,242,0,0
+1737002255177,536,ub-exchange student,200,OK,Thread Group 1-29,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002252678,3036,ub homepage,200,OK,Thread Group 1-34,text,true,,155195,117,11,11,https://www.ubuea.cm/,697,0,461
+1737002255298,580,ub-FET,200,OK,Thread Group 1-26,text,true,,88323,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,275,0,0
+1737002254682,1198,why us,200,OK,Thread Group 1-33,text,true,,92116,136,12,12,https://www.ubuea.cm/index.php/about-us/,240,0,0
+1737002255303,583,ub-news,200,OK,Thread Group 1-31,text,true,,88842,140,12,12,https://www.ubuea.cm/index.php/news-updates/,280,0,0
+1737002255622,285,ub-fee and scholarships,200,OK,Thread Group 1-28,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,272,0,0
+1737002255713,270,ub-transportation,200,OK,Thread Group 1-29,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,260,0,0
+1737002255540,487,ub-fee and scholarships,200,OK,Thread Group 1-27,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,240,0,0
+1737002255594,520,ub-announcements,200,OK,Thread Group 1-32,text,true,,67654,141,12,12,https://www.ubuea.cm/index.php/announcements/,294,0,0
+1737002255879,260,ub-httc application form,200,OK,Thread Group 1-26,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,243,0,0
+1737002255907,259,ub-faculties and schools,200,OK,Thread Group 1-28,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,247,0,0
+1737002255712,488,ub-finance,200,OK,Thread Group 1-30,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,246,0,0
+1737002255984,265,ub-health center,200,OK,Thread Group 1-29,text,true,,84434,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,246,0,0
+1737002255886,506,ub-library,200,OK,Thread Group 1-31,text,true,,93832,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,255,0,0
+1737002256166,288,ub-FET,200,OK,Thread Group 1-28,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,267,0,0
+1737002256249,257,ub-Admission requirements,200,OK,Thread Group 1-29,text,true,,82416,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,238,0,0
+1737002256027,617,ub-faculties and schools,200,OK,Thread Group 1-27,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,267,0,0
+1737002256454,267,ub-httc application form,200,OK,Thread Group 1-28,text,true,,63368,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,247,0,0
+1737002256201,520,ub-exchange student,200,OK,Thread Group 1-30,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,256,0,0
+1737002256506,248,ub-fee and scholarships,200,OK,Thread Group 1-29,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,232,0,0
+1737002256116,783,ub-news,200,OK,Thread Group 1-32,text,true,,88837,140,11,11,https://www.ubuea.cm/index.php/news-updates/,245,0,0
+1737002255881,1027,ub-job opportunities,200,OK,Thread Group 1-33,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,249,0,0
+1737002255713,1204,why us,200,OK,Thread Group 1-34,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,237,0,0
+1737002253694,3236,ub homepage,200,OK,Thread Group 1-35,text,true,,155195,117,11,11,https://www.ubuea.cm/,790,0,499
+1737002256393,540,ub-sports,200,OK,Thread Group 1-31,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,267,0,0
+1737002256754,263,ub-faculties and schools,200,OK,Thread Group 1-29,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,253,0,0
+1737002256645,516,ub-FET,200,OK,Thread Group 1-27,text,true,,88318,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,274,0,0
+1737002256721,496,ub-transportation,200,OK,Thread Group 1-30,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,252,0,0
+1737002256899,466,ub-library,200,OK,Thread Group 1-32,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,231,0,0
+1737002256909,512,ub-announcements,200,OK,Thread Group 1-33,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,272,0,0
+1737002256933,496,ub-finance,200,OK,Thread Group 1-31,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,253,0,0
+1737002257017,488,ub-FET,200,OK,Thread Group 1-29,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,238,0,0
+1737002256917,712,ub-job opportunities,200,OK,Thread Group 1-34,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,254,0,0
+1737002257162,467,ub-httc application form,200,OK,Thread Group 1-27,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,235,0,0
+1737002257217,494,ub-health center,200,OK,Thread Group 1-30,text,true,,84429,158,10,10,https://www.ubuea.cm/index.php/student-services/health-center/,241,0,0
+1737002257365,560,ub-sports,200,OK,Thread Group 1-32,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,234,0,0
+1737002257421,517,ub-news,200,OK,Thread Group 1-33,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,251,0,0
+1737002257429,512,ub-exchange student,200,OK,Thread Group 1-31,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,252,0,0
+1737002257505,476,ub-httc application form,200,OK,Thread Group 1-29,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,261,0,0
+1737002254712,3300,ub homepage,200,OK,Thread Group 1-36,text,true,,155195,117,10,10,https://www.ubuea.cm/,869,0,585
+1737002256929,1221,why us,200,OK,Thread Group 1-35,text,true,,92111,136,10,10,https://www.ubuea.cm/index.php/about-us/,246,0,0
+1737002257629,528,ub-announcements,200,OK,Thread Group 1-34,text,true,,67664,141,10,10,https://www.ubuea.cm/index.php/announcements/,298,0,0
+1737002257711,471,ub-Admission requirements,200,OK,Thread Group 1-30,text,true,,82406,173,10,10,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,238,0,0
+1737002257925,470,ub-finance,200,OK,Thread Group 1-32,text,true,,80709,155,10,10,https://www.ubuea.cm/index.php/student-services/ub-finance/,246,0,0
+1737002258157,452,ub-news,200,OK,Thread Group 1-34,text,true,,88832,140,10,10,https://www.ubuea.cm/index.php/news-updates/,227,0,0
+1737002257939,703,ub-library,200,OK,Thread Group 1-33,text,true,,93827,152,10,10,https://www.ubuea.cm/index.php/student-services/library/,247,0,0
+1737002258182,595,ub-fee and scholarships,200,OK,Thread Group 1-30,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,351,0,0
+1737002255727,3051,ub homepage,200,OK,Thread Group 1-37,text,true,,155200,117,11,11,https://www.ubuea.cm/,728,0,472
+1737002257941,848,ub-transportation,200,OK,Thread Group 1-31,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,252,0,0
+1737002258153,708,ub-job opportunities,200,OK,Thread Group 1-35,text,true,,93082,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,244,0,0
+1737002258395,467,ub-exchange student,200,OK,Thread Group 1-32,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,253,0,0
+1737002258609,473,ub-library,200,OK,Thread Group 1-34,text,true,,93832,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,241,0,0
+1737002258863,235,ub-transportation,200,OK,Thread Group 1-32,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,226,0,0
+1737002258643,477,ub-sports,200,OK,Thread Group 1-33,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,237,0,0
+1737002258013,1244,why us,200,OK,Thread Group 1-36,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,353,0,0
+1737002258790,477,ub-health center,200,OK,Thread Group 1-31,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,239,0,0
+1737002258777,492,ub-faculties and schools,200,OK,Thread Group 1-30,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,260,0,0
+1737002258861,488,ub-announcements,200,OK,Thread Group 1-35,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,238,0,0
+1737002259099,274,ub-health center,200,OK,Thread Group 1-32,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,254,0,0
+1737002259084,456,ub-sports,200,OK,Thread Group 1-34,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,227,0,0
+1737002259120,492,ub-finance,200,OK,Thread Group 1-33,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,254,0,0
+1737002259373,278,ub-Admission requirements,200,OK,Thread Group 1-32,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,246,0,0
+1737002256744,3062,ub homepage,200,OK,Thread Group 1-38,text,true,,155195,117,12,12,https://www.ubuea.cm/,705,0,466
+1737002259267,546,ub-Admission requirements,200,OK,Thread Group 1-31,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,242,0,0
+1737002259270,545,ub-FET,200,OK,Thread Group 1-30,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,247,0,0
+1737002259350,511,ub-news,200,OK,Thread Group 1-35,text,true,,88827,140,12,12,https://www.ubuea.cm/index.php/news-updates/,264,0,0
+1737002258778,1097,why us,200,OK,Thread Group 1-37,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,238,0,0
+1737002259652,245,ub-fee and scholarships,200,OK,Thread Group 1-32,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,225,0,0
+1737002259258,784,ub-job opportunities,200,OK,Thread Group 1-36,text,true,,93082,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,237,0,0
+1737002259540,506,ub-finance,200,OK,Thread Group 1-34,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,277,0,0
+1737002259815,286,ub-httc application form,200,OK,Thread Group 1-30,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,275,0,0
+1737002259612,581,ub-exchange student,200,OK,Thread Group 1-33,text,true,,87252,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002259814,483,ub-fee and scholarships,200,OK,Thread Group 1-31,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,250,0,0
+1737002259861,628,ub-library,200,OK,Thread Group 1-35,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,334,0,0
+1737002259898,594,ub-faculties and schools,200,OK,Thread Group 1-32,text,true,,85466,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,360,0,0
+1737002260043,579,ub-announcements,200,OK,Thread Group 1-36,text,true,,67654,141,11,11,https://www.ubuea.cm/index.php/announcements/,237,0,0
+1737002260047,577,ub-exchange student,200,OK,Thread Group 1-34,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,238,0,0
+1737002259876,841,ub-job opportunities,200,OK,Thread Group 1-37,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,379,0,0
+1737002260194,524,ub-transportation,200,OK,Thread Group 1-33,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,283,0,0
+1737002260492,300,ub-FET,200,OK,Thread Group 1-32,text,true,,88308,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,240,0,0
+1737002260297,598,ub-faculties and schools,200,OK,Thread Group 1-31,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,344,0,0
+1737002260489,489,ub-sports,200,OK,Thread Group 1-35,text,true,,83751,153,12,12,https://www.ubuea.cm/index.php/student-engagement/sports/,248,0,0
+1737002260793,244,ub-httc application form,200,OK,Thread Group 1-32,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,228,0,0
+1737002257763,3295,ub homepage,200,OK,Thread Group 1-39,text,true,,155195,117,11,11,https://www.ubuea.cm/,783,0,481
+1737002259806,1263,why us,200,OK,Thread Group 1-38,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,282,0,0
+1737002260624,454,ub-transportation,200,OK,Thread Group 1-34,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,241,0,0
+1737002260623,503,ub-news,200,OK,Thread Group 1-36,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,256,0,0
+1737002260717,458,ub-announcements,200,OK,Thread Group 1-37,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,230,0,0
+1737002260719,485,ub-health center,200,OK,Thread Group 1-33,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,240,0,0
+1737002261078,255,ub-health center,200,OK,Thread Group 1-34,text,true,,84434,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,241,0,0
+1737002260895,478,ub-FET,200,OK,Thread Group 1-31,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,249,0,0
+1737002260978,453,ub-finance,200,OK,Thread Group 1-35,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,233,0,0
+1737002261333,272,ub-Admission requirements,200,OK,Thread Group 1-34,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,241,0,0
+1737002261374,384,ub-httc application form,200,OK,Thread Group 1-31,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,376,0,0
+1737002261128,632,ub-library,200,OK,Thread Group 1-36,text,true,,93827,152,10,10,https://www.ubuea.cm/index.php/student-services/library/,251,0,0
+1737002261175,591,ub-news,200,OK,Thread Group 1-37,text,true,,88827,140,10,10,https://www.ubuea.cm/index.php/news-updates/,240,0,0
+1737002261205,581,ub-Admission requirements,200,OK,Thread Group 1-33,text,true,,82406,173,10,10,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,240,0,0
+1737002261070,721,ub-job opportunities,200,OK,Thread Group 1-38,text,true,,93082,154,10,10,https://www.ubuea.cm/index.php/about-us/job-opportunities/,243,0,0
+1737002261605,253,ub-fee and scholarships,200,OK,Thread Group 1-34,text,true,,81119,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,235,0,0
+1737002258776,3208,ub homepage,200,OK,Thread Group 1-40,text,true,,155195,117,11,11,https://www.ubuea.cm/,718,0,483
+1737002261431,575,ub-exchange student,200,OK,Thread Group 1-35,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,341,0,0
+1737002261058,1010,why us,200,OK,Thread Group 1-39,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,276,0,0
+1737002261858,361,ub-faculties and schools,200,OK,Thread Group 1-34,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,246,0,0
+1737002261760,490,ub-sports,200,OK,Thread Group 1-36,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,247,0,0
+1737002261767,486,ub-library,200,OK,Thread Group 1-37,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,250,0,0
+1737002262006,288,ub-transportation,200,OK,Thread Group 1-35,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,273,0,0
+1737002261786,541,ub-fee and scholarships,200,OK,Thread Group 1-33,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,296,0,0
+1737002261791,541,ub-announcements,200,OK,Thread Group 1-38,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,307,0,0
+1737002262294,301,ub-health center,200,OK,Thread Group 1-35,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,287,0,0
+1737002262220,459,ub-FET,200,OK,Thread Group 1-34,text,true,,88308,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,252,0,0
+1737002262254,468,ub-sports,200,OK,Thread Group 1-37,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,242,0,0
+1737002262251,489,ub-finance,200,OK,Thread Group 1-36,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,258,0,0
+1737002262068,761,ub-job opportunities,200,OK,Thread Group 1-39,text,true,,93102,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,252,0,0
+1737002262327,513,ub-faculties and schools,200,OK,Thread Group 1-33,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,270,0,0
+1737002262595,281,ub-Admission requirements,200,OK,Thread Group 1-35,text,true,,82416,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,255,0,0
+1737002262680,237,ub-httc application form,200,OK,Thread Group 1-34,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,225,0,0
+1737002259792,3176,ub homepage,200,OK,Thread Group 1-41,text,true,,155205,117,11,11,https://www.ubuea.cm/,845,0,492
+1737002262333,733,ub-news,200,OK,Thread Group 1-38,text,true,,88837,140,11,11,https://www.ubuea.cm/index.php/news-updates/,267,0,0
+1737002261985,1120,why us,200,OK,Thread Group 1-40,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,248,0,0
+1737002262877,255,ub-fee and scholarships,200,OK,Thread Group 1-35,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,241,0,0
+1737002262740,477,ub-exchange student,200,OK,Thread Group 1-36,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,245,0,0
+1737002262830,478,ub-announcements,200,OK,Thread Group 1-39,text,true,,67659,141,11,11,https://www.ubuea.cm/index.php/announcements/,249,0,0
+1737002262840,473,ub-FET,200,OK,Thread Group 1-33,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,232,0,0
+1737002263133,257,ub-faculties and schools,200,OK,Thread Group 1-35,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,245,0,0
+1737002262723,667,ub-finance,200,OK,Thread Group 1-37,text,true,,80684,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,228,0,0
+1737002263067,699,ub-library,200,OK,Thread Group 1-38,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,247,0,0
+1737002263311,489,ub-news,200,OK,Thread Group 1-39,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,249,0,0
+1737002263313,489,ub-httc application form,200,OK,Thread Group 1-33,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,258,0,0
+1737002263106,708,ub-job opportunities,200,OK,Thread Group 1-40,text,true,,93072,154,10,10,https://www.ubuea.cm/index.php/about-us/job-opportunities/,247,0,0
+1737002263391,455,ub-exchange student,200,OK,Thread Group 1-37,text,true,,87237,168,10,10,https://www.ubuea.cm/index.php/international-students/exchange-students/,227,0,0
+1737002260808,3076,ub homepage,200,OK,Thread Group 1-42,text,true,,155195,117,11,11,https://www.ubuea.cm/,737,0,477
+1737002263390,495,ub-FET,200,OK,Thread Group 1-35,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,235,0,0
+1737002262969,1136,why us,200,OK,Thread Group 1-41,text,true,,92121,136,11,11,https://www.ubuea.cm/index.php/about-us/,247,0,0
+1737002263885,340,ub-httc application form,200,OK,Thread Group 1-35,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,243,0,0
+1737002263801,498,ub-library,200,OK,Thread Group 1-39,text,true,,93827,152,10,10,https://www.ubuea.cm/index.php/student-services/library/,244,0,0
+1737002263816,484,ub-announcements,200,OK,Thread Group 1-40,text,true,,67644,141,10,10,https://www.ubuea.cm/index.php/announcements/,242,0,0
+1737002263847,478,ub-transportation,200,OK,Thread Group 1-37,text,true,,81854,159,10,10,https://www.ubuea.cm/index.php/student-services/transportation/,247,0,0
+1737002263767,764,ub-sports,200,OK,Thread Group 1-38,text,true,,83761,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,228,0,0
+1737002261825,2955,ub homepage,200,OK,Thread Group 1-43,text,true,,155210,117,10,10,https://www.ubuea.cm/,771,0,485
+1737002264300,497,ub-news,200,OK,Thread Group 1-40,text,true,,88857,140,10,10,https://www.ubuea.cm/index.php/news-updates/,239,0,0
+1737002263217,1596,ub-transportation,200,OK,Thread Group 1-36,text,true,,81849,159,10,10,https://www.ubuea.cm/index.php/student-services/transportation/,251,0,0
+1737002264299,515,ub-sports,200,OK,Thread Group 1-39,text,true,,83751,153,10,10,https://www.ubuea.cm/index.php/student-engagement/sports/,248,0,0
+1737002264325,490,ub-health center,200,OK,Thread Group 1-37,text,true,,84429,158,10,10,https://www.ubuea.cm/index.php/student-services/health-center/,240,0,0
+1737002264107,713,ub-job opportunities,200,OK,Thread Group 1-41,text,true,,93072,154,10,10,https://www.ubuea.cm/index.php/about-us/job-opportunities/,240,0,0
+1737002264531,498,ub-finance,200,OK,Thread Group 1-38,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,258,0,0
+1737002263885,1152,why us,200,OK,Thread Group 1-42,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,342,0,0
+1737002264816,482,ub-Admission requirements,200,OK,Thread Group 1-37,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,244,0,0
+1737002264797,502,ub-library,200,OK,Thread Group 1-40,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,257,0,0
+1737002264815,491,ub-finance,200,OK,Thread Group 1-39,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,258,0,0
+1737002264813,501,ub-health center,200,OK,Thread Group 1-36,text,true,,84434,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,263,0,0
+1737002264820,513,ub-announcements,200,OK,Thread Group 1-41,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,271,0,0
+1737002265029,708,ub-exchange student,200,OK,Thread Group 1-38,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,265,0,0
+1737002265298,459,ub-fee and scholarships,200,OK,Thread Group 1-37,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,233,0,0
+1737002265299,481,ub-sports,200,OK,Thread Group 1-40,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,247,0,0
+1737002265037,748,ub-job opportunities,200,OK,Thread Group 1-42,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,263,0,0
+1737002265306,495,ub-exchange student,200,OK,Thread Group 1-39,text,true,,87242,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,247,0,0
+1737002265315,486,ub-Admission requirements,200,OK,Thread Group 1-36,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,248,0,0
+1737002265333,485,ub-news,200,OK,Thread Group 1-41,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,248,0,0
+1737002264781,1100,why us,200,OK,Thread Group 1-43,text,true,,92111,136,11,11,https://www.ubuea.cm/index.php/about-us/,236,0,0
+1737002262842,3107,ub homepage,200,OK,Thread Group 1-44,text,true,,155195,117,12,12,https://www.ubuea.cm/,716,0,473
+1737002265737,476,ub-transportation,200,OK,Thread Group 1-38,text,true,,81854,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,227,0,0
+1737002265757,475,ub-faculties and schools,200,OK,Thread Group 1-37,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,250,0,0
+1737002265781,462,ub-finance,200,OK,Thread Group 1-40,text,true,,80674,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,238,0,0
+1737002265785,504,ub-announcements,200,OK,Thread Group 1-42,text,true,,67644,141,12,12,https://www.ubuea.cm/index.php/announcements/,267,0,0
+1737002265802,491,ub-fee and scholarships,200,OK,Thread Group 1-36,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,254,0,0
+1737002265802,493,ub-transportation,200,OK,Thread Group 1-39,text,true,,81849,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,263,0,0
+1737002265818,500,ub-library,200,OK,Thread Group 1-41,text,true,,93827,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,258,0,0
+1737002266296,389,ub-health center,200,OK,Thread Group 1-39,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,375,0,0
+1737002266233,473,ub-FET,200,OK,Thread Group 1-37,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,236,0,0
+1737002266244,599,ub-exchange student,200,OK,Thread Group 1-40,text,true,,87237,168,12,12,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002266289,560,ub-news,200,OK,Thread Group 1-42,text,true,,88827,140,12,12,https://www.ubuea.cm/index.php/news-updates/,252,0,0
+1737002266294,558,ub-faculties and schools,200,OK,Thread Group 1-36,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,326,0,0
+1737002263859,2994,ub homepage,200,OK,Thread Group 1-45,text,true,,155195,117,12,12,https://www.ubuea.cm/,705,0,465
+1737002266319,595,ub-sports,200,OK,Thread Group 1-41,text,true,,83751,153,13,13,https://www.ubuea.cm/index.php/student-engagement/sports/,362,0,0
+1737002266214,704,ub-health center,200,OK,Thread Group 1-38,text,true,,84429,158,13,13,https://www.ubuea.cm/index.php/student-services/health-center/,242,0,0
+1737002266706,243,ub-httc application form,200,OK,Thread Group 1-37,text,true,,63363,183,13,13,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,230,0,0
+1737002266686,287,ub-Admission requirements,200,OK,Thread Group 1-39,text,true,,82406,173,12,12,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,274,0,0
+1737002265949,1193,why us,200,OK,Thread Group 1-44,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,242,0,0
+1737002266973,265,ub-fee and scholarships,200,OK,Thread Group 1-39,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,248,0,0
+1737002266844,482,ub-transportation,200,OK,Thread Group 1-40,text,true,,81859,159,12,12,https://www.ubuea.cm/index.php/student-services/transportation/,248,0,0
+1737002266852,491,ub-FET,200,OK,Thread Group 1-36,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,251,0,0
+1737002266849,512,ub-library,200,OK,Thread Group 1-42,text,true,,93837,152,12,12,https://www.ubuea.cm/index.php/student-services/library/,266,0,0
+1737002266914,472,ub-finance,200,OK,Thread Group 1-41,text,true,,80684,155,12,12,https://www.ubuea.cm/index.php/student-services/ub-finance/,244,0,0
+1737002265882,1605,ub-job opportunities,200,OK,Thread Group 1-43,text,true,,93077,154,12,12,https://www.ubuea.cm/index.php/about-us/job-opportunities/,228,0,0
+1737002267239,260,ub-faculties and schools,200,OK,Thread Group 1-39,text,true,,85461,145,12,12,https://www.ubuea.cm/index.php/faculties-schools/,250,0,0
+1737002267327,261,ub-health center,200,OK,Thread Group 1-40,text,true,,84429,158,12,12,https://www.ubuea.cm/index.php/student-services/health-center/,243,0,0
+1737002267343,251,ub-httc application form,200,OK,Thread Group 1-36,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,245,0,0
+1737002266918,725,ub-Admission requirements,200,OK,Thread Group 1-38,text,true,,82421,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,265,0,0
+1737002264876,2935,ub homepage,200,OK,Thread Group 1-46,text,true,,155200,117,11,11,https://www.ubuea.cm/,712,0,466
+1737002267588,271,ub-Admission requirements,200,OK,Thread Group 1-40,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,262,0,0
+1737002267361,500,ub-sports,200,OK,Thread Group 1-42,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,247,0,0
+1737002267386,481,ub-exchange student,200,OK,Thread Group 1-41,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,244,0,0
+1737002267142,741,ub-job opportunities,200,OK,Thread Group 1-44,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,252,0,0
+1737002266853,1118,why us,200,OK,Thread Group 1-45,text,true,,92111,136,12,12,https://www.ubuea.cm/index.php/about-us/,231,0,0
+1737002267500,490,ub-FET,200,OK,Thread Group 1-39,text,true,,88303,187,12,12,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,252,0,0
+1737002267860,298,ub-fee and scholarships,200,OK,Thread Group 1-40,text,true,,81104,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,280,0,0
+1737002267644,518,ub-fee and scholarships,200,OK,Thread Group 1-38,text,true,,81109,145,12,12,https://www.ubuea.cm/index.php/fees-scholarships/,240,0,0
+1737002267991,248,ub-httc application form,200,OK,Thread Group 1-39,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,238,0,0
+1737002267867,455,ub-transportation,200,OK,Thread Group 1-41,text,true,,81854,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,236,0,0
+1737002267861,491,ub-finance,200,OK,Thread Group 1-42,text,true,,80674,155,11,11,https://www.ubuea.cm/index.php/student-services/ub-finance/,260,0,0
+1737002267883,523,ub-announcements,200,OK,Thread Group 1-44,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,280,0,0
+1737002268159,302,ub-faculties and schools,200,OK,Thread Group 1-40,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,261,0,0
+1737002267487,1135,ub-announcements,200,OK,Thread Group 1-43,text,true,,67649,141,11,11,https://www.ubuea.cm/index.php/announcements/,257,0,0
+1737002268461,272,ub-FET,200,OK,Thread Group 1-40,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,249,0,0
+1737002268323,465,ub-health center,200,OK,Thread Group 1-41,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,257,0,0
+1737002268352,500,ub-exchange student,200,OK,Thread Group 1-42,text,true,,87237,168,11,11,https://www.ubuea.cm/index.php/international-students/exchange-students/,261,0,0
+1737002268162,702,ub-faculties and schools,200,OK,Thread Group 1-38,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,250,0,0
+1737002265894,3004,ub homepage,200,OK,Thread Group 1-47,text,true,,155195,117,11,11,https://www.ubuea.cm/,798,0,476
+1737002267972,935,ub-job opportunities,200,OK,Thread Group 1-45,text,true,,93072,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,240,0,0
+1737002268406,501,ub-news,200,OK,Thread Group 1-44,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,253,0,0
+1737002267812,1153,why us,200,OK,Thread Group 1-46,text,true,,92131,136,12,12,https://www.ubuea.cm/index.php/about-us/,236,0,0
+1737002268733,267,ub-httc application form,200,OK,Thread Group 1-40,text,true,,63363,183,12,12,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,245,0,0
+1737002268788,263,ub-Admission requirements,200,OK,Thread Group 1-41,text,true,,82416,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,237,0,0
+1737002269051,265,ub-fee and scholarships,200,OK,Thread Group 1-41,text,true,,81104,145,11,11,https://www.ubuea.cm/index.php/fees-scholarships/,233,0,0
+1737002268852,503,ub-transportation,200,OK,Thread Group 1-42,text,true,,81849,159,11,11,https://www.ubuea.cm/index.php/student-services/transportation/,258,0,0
+1737002268907,493,ub-announcements,200,OK,Thread Group 1-45,text,true,,67644,141,11,11,https://www.ubuea.cm/index.php/announcements/,257,0,0
+1737002268908,516,ub-library,200,OK,Thread Group 1-44,text,true,,93827,152,11,11,https://www.ubuea.cm/index.php/student-services/library/,267,0,0
+1737002269317,270,ub-faculties and schools,200,OK,Thread Group 1-41,text,true,,85461,145,11,11,https://www.ubuea.cm/index.php/faculties-schools/,258,0,0
+1737002268864,724,ub-FET,200,OK,Thread Group 1-38,text,true,,88313,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,260,0,0
+1737002269355,283,ub-health center,200,OK,Thread Group 1-42,text,true,,84429,158,11,11,https://www.ubuea.cm/index.php/student-services/health-center/,253,0,0
+1737002269587,262,ub-FET,200,OK,Thread Group 1-41,text,true,,88303,187,11,11,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,240,0,0
+1737002268622,1266,ub-news,200,OK,Thread Group 1-43,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,238,0,0
+1737002269400,494,ub-news,200,OK,Thread Group 1-45,text,true,,88827,140,11,11,https://www.ubuea.cm/index.php/news-updates/,244,0,0
+1737002268966,931,ub-job opportunities,200,OK,Thread Group 1-46,text,true,,93077,154,11,11,https://www.ubuea.cm/index.php/about-us/job-opportunities/,243,0,0
+1737002269639,281,ub-Admission requirements,200,OK,Thread Group 1-42,text,true,,82406,173,11,11,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,272,0,0
+1737002269424,541,ub-sports,200,OK,Thread Group 1-44,text,true,,83751,153,11,11,https://www.ubuea.cm/index.php/student-engagement/sports/,321,0,0
+1737002266911,3136,ub homepage,200,OK,Thread Group 1-48,text,true,,155195,117,11,11,https://www.ubuea.cm/,828,0,488
+1737002269588,486,ub-httc application form,200,OK,Thread Group 1-38,text,true,,63363,183,11,11,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,262,0,0
+1737002268899,1208,why us,200,OK,Thread Group 1-47,text,true,,92111,136,10,10,https://www.ubuea.cm/index.php/about-us/,273,0,0
+1737002269849,269,ub-httc application form,200,OK,Thread Group 1-41,text,true,,63363,183,10,10,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,258,0,0
+1737002269921,267,ub-fee and scholarships,200,OK,Thread Group 1-42,text,true,,81104,145,9,9,https://www.ubuea.cm/index.php/fees-scholarships/,253,0,0
+1737002269895,477,ub-library,200,OK,Thread Group 1-45,text,true,,93827,152,9,9,https://www.ubuea.cm/index.php/student-services/library/,247,0,0
+1737002269897,491,ub-announcements,200,OK,Thread Group 1-46,text,true,,67644,141,9,9,https://www.ubuea.cm/index.php/announcements/,252,0,0
+1737002269965,469,ub-finance,200,OK,Thread Group 1-44,text,true,,80684,155,9,9,https://www.ubuea.cm/index.php/student-services/ub-finance/,243,0,0
+1737002270189,272,ub-faculties and schools,200,OK,Thread Group 1-42,text,true,,85461,145,9,9,https://www.ubuea.cm/index.php/faculties-schools/,258,0,0
+1737002270373,468,ub-sports,200,OK,Thread Group 1-45,text,true,,83751,153,9,9,https://www.ubuea.cm/index.php/student-engagement/sports/,245,0,0
+1737002270389,483,ub-news,200,OK,Thread Group 1-46,text,true,,88827,140,9,9,https://www.ubuea.cm/index.php/news-updates/,236,0,0
+1737002270461,476,ub-FET,200,OK,Thread Group 1-42,text,true,,88308,187,9,9,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,254,0,0
+1737002270107,899,ub-job opportunities,200,OK,Thread Group 1-47,text,true,,93072,154,9,9,https://www.ubuea.cm/index.php/about-us/job-opportunities/,251,0,0
+1737002267927,3084,ub homepage,200,OK,Thread Group 1-49,text,true,,155195,117,9,9,https://www.ubuea.cm/,752,0,499
+1737002269888,1138,ub-library,200,OK,Thread Group 1-43,text,true,,93827,152,9,9,https://www.ubuea.cm/index.php/student-services/library/,247,0,0
+1737002270435,689,ub-exchange student,200,OK,Thread Group 1-44,text,true,,87237,168,9,9,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002270048,1133,why us,200,OK,Thread Group 1-48,text,true,,92121,136,9,9,https://www.ubuea.cm/index.php/about-us/,257,0,0
+1737002270938,263,ub-httc application form,200,OK,Thread Group 1-42,text,true,,63363,183,9,9,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,253,0,0
+1737002270841,457,ub-finance,200,OK,Thread Group 1-45,text,true,,80674,155,8,8,https://www.ubuea.cm/index.php/student-services/ub-finance/,235,0,0
+1737002270872,473,ub-library,200,OK,Thread Group 1-46,text,true,,93832,152,8,8,https://www.ubuea.cm/index.php/student-services/library/,245,0,0
+1737002271007,463,ub-announcements,200,OK,Thread Group 1-47,text,true,,67654,141,8,8,https://www.ubuea.cm/index.php/announcements/,235,0,0
+1737002271299,501,ub-exchange student,200,OK,Thread Group 1-45,text,true,,87237,168,8,8,https://www.ubuea.cm/index.php/international-students/exchange-students/,269,0,0
+1737002271346,475,ub-sports,200,OK,Thread Group 1-46,text,true,,83751,153,8,8,https://www.ubuea.cm/index.php/student-engagement/sports/,242,0,0
+1737002271125,697,ub-transportation,200,OK,Thread Group 1-44,text,true,,81849,159,8,8,https://www.ubuea.cm/index.php/student-services/transportation/,241,0,0
+1737002271470,487,ub-news,200,OK,Thread Group 1-47,text,true,,88827,140,8,8,https://www.ubuea.cm/index.php/news-updates/,233,0,0
+1737002271027,956,ub-sports,200,OK,Thread Group 1-43,text,true,,83751,153,8,8,https://www.ubuea.cm/index.php/student-engagement/sports/,244,0,0
+1737002268939,3075,ub homepage,200,OK,Thread Group 1-50,text,true,,155195,117,8,8,https://www.ubuea.cm/,813,0,500
+1737002271182,991,ub-job opportunities,200,OK,Thread Group 1-48,text,true,,93072,154,8,8,https://www.ubuea.cm/index.php/about-us/job-opportunities/,237,0,0
+1737002271011,1162,why us,200,OK,Thread Group 1-49,text,true,,92111,136,8,8,https://www.ubuea.cm/index.php/about-us/,253,0,0
+1737002271800,458,ub-transportation,200,OK,Thread Group 1-45,text,true,,81849,159,8,8,https://www.ubuea.cm/index.php/student-services/transportation/,237,0,0
+1737002271822,450,ub-finance,200,OK,Thread Group 1-46,text,true,,80674,155,8,8,https://www.ubuea.cm/index.php/student-services/ub-finance/,236,0,0
+1737002271823,495,ub-health center,200,OK,Thread Group 1-44,text,true,,84429,158,8,8,https://www.ubuea.cm/index.php/student-services/health-center/,250,0,0
+1737002271957,493,ub-library,200,OK,Thread Group 1-47,text,true,,93827,152,8,8,https://www.ubuea.cm/index.php/student-services/library/,239,0,0
+1737002272173,511,ub-announcements,200,OK,Thread Group 1-48,text,true,,67644,141,8,8,https://www.ubuea.cm/index.php/announcements/,273,0,0
+1737002272272,471,ub-exchange student,200,OK,Thread Group 1-46,text,true,,87237,168,8,8,https://www.ubuea.cm/index.php/international-students/exchange-students/,237,0,0
+1737002272318,471,ub-Admission requirements,200,OK,Thread Group 1-44,text,true,,82406,173,8,8,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,232,0,0
+1737002271984,925,ub-finance,200,OK,Thread Group 1-43,text,true,,80674,155,8,8,https://www.ubuea.cm/index.php/student-services/ub-finance/,224,0,0
+1737002272450,481,ub-sports,200,OK,Thread Group 1-47,text,true,,83751,153,8,8,https://www.ubuea.cm/index.php/student-engagement/sports/,241,0,0
+1737002272173,777,ub-job opportunities,200,OK,Thread Group 1-49,text,true,,93072,154,8,8,https://www.ubuea.cm/index.php/about-us/job-opportunities/,278,0,0
+1737002272014,1142,why us,200,OK,Thread Group 1-50,text,true,,92111,136,8,8,https://www.ubuea.cm/index.php/about-us/,250,0,0
+1737002272685,512,ub-news,200,OK,Thread Group 1-48,text,true,,88827,140,8,8,https://www.ubuea.cm/index.php/news-updates/,266,0,0
+1737002272744,453,ub-transportation,200,OK,Thread Group 1-46,text,true,,81849,159,8,8,https://www.ubuea.cm/index.php/student-services/transportation/,239,0,0
+1737002272790,476,ub-fee and scholarships,200,OK,Thread Group 1-44,text,true,,81109,145,8,8,https://www.ubuea.cm/index.php/fees-scholarships/,234,0,0
+1737002272932,451,ub-finance,200,OK,Thread Group 1-47,text,true,,80674,155,8,8,https://www.ubuea.cm/index.php/student-services/ub-finance/,226,0,0
+1737002272950,495,ub-announcements,200,OK,Thread Group 1-49,text,true,,67644,141,8,8,https://www.ubuea.cm/index.php/announcements/,249,0,0
+1737002272909,668,ub-exchange student,200,OK,Thread Group 1-43,text,true,,87237,168,8,8,https://www.ubuea.cm/index.php/international-students/exchange-students/,244,0,0
+1737002273198,438,ub-health center,200,OK,Thread Group 1-46,text,true,,84429,158,8,8,https://www.ubuea.cm/index.php/student-services/health-center/,225,0,0
+1737002273198,492,ub-library,200,OK,Thread Group 1-48,text,true,,93827,152,8,8,https://www.ubuea.cm/index.php/student-services/library/,248,0,0
+1737002273266,466,ub-faculties and schools,200,OK,Thread Group 1-44,text,true,,85461,145,8,8,https://www.ubuea.cm/index.php/faculties-schools/,236,0,0
+1737002273383,448,ub-exchange student,200,OK,Thread Group 1-47,text,true,,87237,168,8,8,https://www.ubuea.cm/index.php/international-students/exchange-students/,225,0,0
+1737002273637,258,ub-Admission requirements,200,OK,Thread Group 1-46,text,true,,82406,173,8,8,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,234,0,0
+1737002272258,1638,ub-health center,200,OK,Thread Group 1-45,text,true,,84429,158,8,8,https://www.ubuea.cm/index.php/student-services/health-center/,240,0,0
+1737002273446,501,ub-news,200,OK,Thread Group 1-49,text,true,,88827,140,8,8,https://www.ubuea.cm/index.php/news-updates/,247,0,0
+1737002273578,476,ub-transportation,200,OK,Thread Group 1-43,text,true,,81849,159,8,8,https://www.ubuea.cm/index.php/student-services/transportation/,245,0,0
+1737002273157,906,ub-job opportunities,200,OK,Thread Group 1-50,text,true,,93072,154,8,8,https://www.ubuea.cm/index.php/about-us/job-opportunities/,255,0,0
+1737002273895,271,ub-fee and scholarships,200,OK,Thread Group 1-46,text,true,,81104,145,8,8,https://www.ubuea.cm/index.php/fees-scholarships/,238,0,0
+1737002273691,498,ub-sports,200,OK,Thread Group 1-48,text,true,,83751,153,8,8,https://www.ubuea.cm/index.php/student-engagement/sports/,245,0,0
+1737002273732,499,ub-FET,200,OK,Thread Group 1-44,text,true,,88303,187,8,8,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,260,0,0
+1737002273831,473,ub-transportation,200,OK,Thread Group 1-47,text,true,,81849,159,8,8,https://www.ubuea.cm/index.php/student-services/transportation/,244,0,0
+1737002273896,491,ub-Admission requirements,200,OK,Thread Group 1-45,text,true,,82406,173,8,8,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,271,0,0
+1737002274165,255,ub-faculties and schools,200,OK,Thread Group 1-46,text,true,,85471,145,8,8,https://www.ubuea.cm/index.php/faculties-schools/,246,0,0
+1737002273948,501,ub-library,200,OK,Thread Group 1-49,text,true,,93832,152,8,8,https://www.ubuea.cm/index.php/student-services/library/,241,0,0
+1737002274231,256,ub-httc application form,200,OK,Thread Group 1-44,text,true,,63363,183,8,8,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,236,0,0
+1737002274053,464,ub-health center,200,OK,Thread Group 1-43,text,true,,84429,158,7,7,https://www.ubuea.cm/index.php/student-services/health-center/,237,0,0
+1737002274062,484,ub-announcements,200,OK,Thread Group 1-50,text,true,,67644,141,7,7,https://www.ubuea.cm/index.php/announcements/,245,0,0
+1737002274420,253,ub-FET,200,OK,Thread Group 1-46,text,true,,88308,187,7,7,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,238,0,0
+1737002274188,487,ub-finance,200,OK,Thread Group 1-48,text,true,,80674,155,7,7,https://www.ubuea.cm/index.php/student-services/ub-finance/,251,0,0
+1737002274304,458,ub-health center,200,OK,Thread Group 1-47,text,true,,84429,158,7,7,https://www.ubuea.cm/index.php/student-services/health-center/,244,0,0
+1737002274386,454,ub-fee and scholarships,200,OK,Thread Group 1-45,text,true,,81104,145,7,7,https://www.ubuea.cm/index.php/fees-scholarships/,236,0,0
+1737002274673,252,ub-httc application form,200,OK,Thread Group 1-46,text,true,,63363,183,7,7,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,239,0,0
+1737002274448,494,ub-sports,200,OK,Thread Group 1-49,text,true,,83751,153,6,6,https://www.ubuea.cm/index.php/student-engagement/sports/,255,0,0
+1737002274517,459,ub-Admission requirements,200,OK,Thread Group 1-43,text,true,,82411,173,6,6,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,231,0,0
+1737002274547,494,ub-news,200,OK,Thread Group 1-50,text,true,,88827,140,6,6,https://www.ubuea.cm/index.php/news-updates/,245,0,0
+1737002274675,480,ub-exchange student,200,OK,Thread Group 1-48,text,true,,87237,168,6,6,https://www.ubuea.cm/index.php/international-students/exchange-students/,250,0,0
+1737002274841,465,ub-faculties and schools,200,OK,Thread Group 1-45,text,true,,85461,145,6,6,https://www.ubuea.cm/index.php/faculties-schools/,244,0,0
+1737002274942,467,ub-finance,200,OK,Thread Group 1-49,text,true,,80679,155,6,6,https://www.ubuea.cm/index.php/student-services/ub-finance/,239,0,0
+1737002274976,471,ub-fee and scholarships,200,OK,Thread Group 1-43,text,true,,81104,145,6,6,https://www.ubuea.cm/index.php/fees-scholarships/,237,0,0
+1737002275041,489,ub-library,200,OK,Thread Group 1-50,text,true,,93827,152,6,6,https://www.ubuea.cm/index.php/student-services/library/,251,0,0
+1737002274763,768,ub-Admission requirements,200,OK,Thread Group 1-47,text,true,,82406,173,6,6,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,263,0,0
+1737002275155,492,ub-transportation,200,OK,Thread Group 1-48,text,true,,81849,159,6,6,https://www.ubuea.cm/index.php/student-services/transportation/,272,0,0
+1737002275307,474,ub-FET,200,OK,Thread Group 1-45,text,true,,88303,187,6,6,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,244,0,0
+1737002275648,250,ub-health center,200,OK,Thread Group 1-48,text,true,,84429,158,6,6,https://www.ubuea.cm/index.php/student-services/health-center/,239,0,0
+1737002275410,494,ub-exchange student,200,OK,Thread Group 1-49,text,true,,87237,168,6,6,https://www.ubuea.cm/index.php/international-students/exchange-students/,263,0,0
+1737002275448,465,ub-faculties and schools,200,OK,Thread Group 1-43,text,true,,85461,145,6,6,https://www.ubuea.cm/index.php/faculties-schools/,241,0,0
+1737002275531,471,ub-sports,200,OK,Thread Group 1-50,text,true,,83751,153,6,6,https://www.ubuea.cm/index.php/student-engagement/sports/,240,0,0
+1737002275781,261,ub-httc application form,200,OK,Thread Group 1-45,text,true,,63363,183,6,6,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,247,0,0
+1737002275900,279,ub-Admission requirements,200,OK,Thread Group 1-48,text,true,,82406,173,5,5,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,266,0,0
+1737002275531,658,ub-fee and scholarships,200,OK,Thread Group 1-47,text,true,,81104,145,5,5,https://www.ubuea.cm/index.php/fees-scholarships/,230,0,0
+1737002275904,460,ub-transportation,200,OK,Thread Group 1-49,text,true,,81849,159,5,5,https://www.ubuea.cm/index.php/student-services/transportation/,248,0,0
+1737002275913,498,ub-FET,200,OK,Thread Group 1-43,text,true,,88318,187,5,5,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,268,0,0
+1737002276180,272,ub-fee and scholarships,200,OK,Thread Group 1-48,text,true,,81104,145,5,5,https://www.ubuea.cm/index.php/fees-scholarships/,261,0,0
+1737002276003,466,ub-finance,200,OK,Thread Group 1-50,text,true,,80674,155,5,5,https://www.ubuea.cm/index.php/student-services/ub-finance/,244,0,0
+1737002276412,248,ub-httc application form,200,OK,Thread Group 1-43,text,true,,63363,183,5,5,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,237,0,0
+1737002276190,473,ub-faculties and schools,200,OK,Thread Group 1-47,text,true,,85461,145,4,4,https://www.ubuea.cm/index.php/faculties-schools/,238,0,0
+1737002276452,270,ub-faculties and schools,200,OK,Thread Group 1-48,text,true,,85461,145,4,4,https://www.ubuea.cm/index.php/faculties-schools/,230,0,0
+1737002276364,474,ub-health center,200,OK,Thread Group 1-49,text,true,,84454,158,4,4,https://www.ubuea.cm/index.php/student-services/health-center/,247,0,0
+1737002276722,269,ub-FET,200,OK,Thread Group 1-48,text,true,,88303,187,4,4,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,250,0,0
+1737002276839,262,ub-Admission requirements,200,OK,Thread Group 1-49,text,true,,82406,173,4,4,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,242,0,0
+1737002276663,472,ub-FET,200,OK,Thread Group 1-47,text,true,,88303,187,4,4,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,240,0,0
+1737002276469,693,ub-exchange student,200,OK,Thread Group 1-50,text,true,,87237,168,4,4,https://www.ubuea.cm/index.php/international-students/exchange-students/,254,0,0
+1737002276991,271,ub-httc application form,200,OK,Thread Group 1-48,text,true,,63363,183,4,4,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,251,0,0
+1737002277101,253,ub-fee and scholarships,200,OK,Thread Group 1-49,text,true,,81104,145,3,3,https://www.ubuea.cm/index.php/fees-scholarships/,238,0,0
+1737002277135,453,ub-httc application form,200,OK,Thread Group 1-47,text,true,,63388,183,3,3,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,226,0,0
+1737002277354,267,ub-faculties and schools,200,OK,Thread Group 1-49,text,true,,85466,145,2,2,https://www.ubuea.cm/index.php/faculties-schools/,249,0,0
+1737002277162,479,ub-transportation,200,OK,Thread Group 1-50,text,true,,81849,159,2,2,https://www.ubuea.cm/index.php/student-services/transportation/,251,0,0
+1737002277622,268,ub-FET,200,OK,Thread Group 1-49,text,true,,88303,187,2,2,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,245,0,0
+1737002277642,517,ub-health center,200,OK,Thread Group 1-50,text,true,,84429,158,2,2,https://www.ubuea.cm/index.php/student-services/health-center/,250,0,0
+1737002278159,522,ub-Admission requirements,200,OK,Thread Group 1-50,text,true,,82406,173,2,2,https://www.ubuea.cm/index.php/faculties-schools/apply-to-university-of-buea/,281,0,0
+1737002277891,790,ub-httc application form,200,OK,Thread Group 1-49,text,true,,63373,183,2,2,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,270,0,0
+1737002278682,475,ub-fee and scholarships,200,OK,Thread Group 1-50,text,true,,81104,145,1,1,https://www.ubuea.cm/index.php/fees-scholarships/,234,0,0
+1737002279159,502,ub-faculties and schools,200,OK,Thread Group 1-50,text,true,,85461,145,1,1,https://www.ubuea.cm/index.php/faculties-schools/,279,0,0
+1737002279662,466,ub-FET,200,OK,Thread Group 1-50,text,true,,88303,187,1,1,https://www.ubuea.cm/index.php/faculties-schools/faculty-of-engineering-and-technology-fet/,243,0,0
+1737002280131,318,ub-httc application form,200,OK,Thread Group 1-50,text,true,,63363,183,1,1,https://www.ubuea.cm/index.php/faculties-schools/higher-teachers-training-college-httc/,308,0,0
