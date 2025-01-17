@@ -1,0 +1,191 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1737059100652,2800,Academic Structure,200,OK,Thread Group 1-1,text,true,,16685,399,1,1,https://ubstudent.online/login,739,0,413
+1737059100652,747,Academic Structure-0,302,Found,Thread Group 1-1,text,true,,1162,140,1,1,http://ubstudent.online/student/academic_structure,739,0,413
+1737059101404,1482,Academic Structure-1,302,Found,Thread Group 1-1,text,true,,1427,140,1,1,https://ubstudent.online/student/academic_structure,1482,0,1160
+1737059102886,566,Academic Structure-2,200,OK,Thread Group 1-1,text,true,,14096,119,1,1,https://ubstudent.online/login,350,0,0
+1737059103461,1031,CA Results,200,OK,Thread Group 1-1,text,true,,16647,383,1,1,https://ubstudent.online/login,352,0,0
+1737059103461,352,CA Results-0,302,Found,Thread Group 1-1,text,true,,1125,132,1,1,http://ubstudent.online/student/ca_results,352,0,0
+1737059103814,337,CA Results-1,302,Found,Thread Group 1-1,text,true,,1418,132,1,1,https://ubstudent.online/student/ca_results,336,0,0
+1737059104151,341,CA Results-2,200,OK,Thread Group 1-1,text,true,,14104,119,1,1,https://ubstudent.online/login,339,0,0
+1737059104493,992,Final Results,200,OK,Thread Group 1-1,text,true,,16651,387,2,2,https://ubstudent.online/login,297,0,0
+1737059104493,297,Final Results-0,302,Found,Thread Group 1-1,text,true,,1129,134,2,2,http://ubstudent.online/student/final_result,297,0,0
+1737059104791,340,Final Results-1,302,Found,Thread Group 1-1,text,true,,1426,134,2,2,https://ubstudent.online/student/final_result,340,0,0
+1737059105131,354,Final Results-2,200,OK,Thread Group 1-1,text,true,,14096,119,2,2,https://ubstudent.online/login,351,0,0
+1737059105487,677,Login,200,OK,Thread Group 1-1,text,true,,15126,228,2,2,https://ubstudent.online,332,0,0
+1737059105487,332,Login-0,302,Found,Thread Group 1-1,text,true,,1026,114,2,2,http://ubstudent.online/,332,0,0
+1737059105818,346,Login-1,200,OK,Thread Group 1-1,text,true,,14100,114,2,2,https://ubstudent.online,344,0,0
+1737059106165,1120,Homepage,200,OK,Thread Group 1-1,text,true,,16611,371,2,2,https://ubstudent.online/login,428,0,0
+1737059106165,428,Homepage-0,302,Found,Thread Group 1-1,text,true,,1089,126,2,2,http://ubstudent.online/student/home,428,0,0
+1737059106593,334,Homepage-1,302,Found,Thread Group 1-1,text,true,,1418,126,2,2,https://ubstudent.online/student/home,334,0,0
+1737059106928,357,Homepage-2,200,OK,Thread Group 1-1,text,true,,14104,119,2,2,https://ubstudent.online/login,353,0,0
+1737059105464,2151,Academic Structure,200,OK,Thread Group 1-2,text,true,,16685,399,1,1,https://ubstudent.online/login,616,0,308
+1737059105464,616,Academic Structure-0,302,Found,Thread Group 1-2,text,true,,1164,140,1,1,http://ubstudent.online/student/academic_structure,616,0,308
+1737059106080,868,Academic Structure-1,302,Found,Thread Group 1-2,text,true,,1423,140,1,1,https://ubstudent.online/student/academic_structure,868,0,541
+1737059106948,667,Academic Structure-2,200,OK,Thread Group 1-2,text,true,,14098,119,1,1,https://ubstudent.online/login,344,0,0
+1737059107615,1228,CA Results,200,OK,Thread Group 1-2,text,true,,16647,383,1,1,https://ubstudent.online/login,309,0,0
+1737059107615,309,CA Results-0,302,Found,Thread Group 1-2,text,true,,1125,132,1,1,http://ubstudent.online/student/ca_results,309,0,0
+1737059107925,313,CA Results-1,302,Found,Thread Group 1-2,text,true,,1414,132,1,1,https://ubstudent.online/student/ca_results,313,0,0
+1737059108239,604,CA Results-2,200,OK,Thread Group 1-2,text,true,,14108,119,1,1,https://ubstudent.online/login,338,0,0
+1737059108844,1227,Final Results,200,OK,Thread Group 1-2,text,true,,16649,387,1,1,https://ubstudent.online/login,308,0,0
+1737059108844,308,Final Results-0,302,Found,Thread Group 1-2,text,true,,1131,134,1,1,http://ubstudent.online/student/final_result,308,0,0
+1737059109152,324,Final Results-1,302,Found,Thread Group 1-2,text,true,,1418,134,1,1,https://ubstudent.online/student/final_result,324,0,0
+1737059109477,594,Final Results-2,200,OK,Thread Group 1-2,text,true,,14100,119,1,1,https://ubstudent.online/login,332,0,0
+1737059110072,922,Login,200,OK,Thread Group 1-2,text,true,,15126,228,2,2,https://ubstudent.online,309,0,0
+1737059110072,309,Login-0,302,Found,Thread Group 1-2,text,true,,1026,114,2,2,http://ubstudent.online/,309,0,0
+1737059110382,612,Login-1,200,OK,Thread Group 1-2,text,true,,14100,114,2,2,https://ubstudent.online,339,0,0
+1737059110994,1231,Homepage,200,OK,Thread Group 1-2,text,true,,16625,371,2,2,https://ubstudent.online/login,317,0,0
+1737059110994,318,Homepage-0,302,Found,Thread Group 1-2,text,true,,1095,126,2,2,http://ubstudent.online/student/home,317,0,0
+1737059111312,324,Homepage-1,302,Found,Thread Group 1-2,text,true,,1424,126,2,2,https://ubstudent.online/student/home,324,0,0
+1737059111637,588,Homepage-2,200,OK,Thread Group 1-2,text,true,,14106,119,2,2,https://ubstudent.online/login,349,0,0
+1737059110468,2062,Academic Structure,200,OK,Thread Group 1-3,text,true,,16683,399,1,1,https://ubstudent.online/login,526,0,218
+1737059110468,526,Academic Structure-0,302,Found,Thread Group 1-3,text,true,,1158,140,1,1,http://ubstudent.online/student/academic_structure,526,0,218
+1737059110995,946,Academic Structure-1,302,Found,Thread Group 1-3,text,true,,1421,140,1,1,https://ubstudent.online/student/academic_structure,946,0,624
+1737059111941,589,Academic Structure-2,200,OK,Thread Group 1-3,text,true,,14104,119,1,1,https://ubstudent.online/login,326,0,0
+1737059112531,968,CA Results,200,OK,Thread Group 1-3,text,true,,16637,383,1,1,https://ubstudent.online/login,309,0,0
+1737059112531,310,CA Results-0,302,Found,Thread Group 1-3,text,true,,1119,132,1,1,http://ubstudent.online/student/ca_results,309,0,0
+1737059112841,326,CA Results-1,302,Found,Thread Group 1-3,text,true,,1422,132,1,1,https://ubstudent.online/student/ca_results,326,0,0
+1737059113167,332,CA Results-2,200,OK,Thread Group 1-3,text,true,,14096,119,1,1,https://ubstudent.online/login,332,0,0
+1737059113500,1003,Final Results,200,OK,Thread Group 1-3,text,true,,16663,387,1,1,https://ubstudent.online/login,302,0,0
+1737059113500,302,Final Results-0,302,Found,Thread Group 1-3,text,true,,1127,134,1,1,http://ubstudent.online/student/final_result,302,0,0
+1737059113803,367,Final Results-1,302,Found,Thread Group 1-3,text,true,,1430,134,1,1,https://ubstudent.online/student/final_result,367,0,0
+1737059114172,331,Final Results-2,200,OK,Thread Group 1-3,text,true,,14106,119,1,1,https://ubstudent.online/login,325,0,0
+1737059114504,692,Login,200,OK,Thread Group 1-3,text,true,,15130,228,1,1,https://ubstudent.online,305,0,0
+1737059114504,305,Login-0,302,Found,Thread Group 1-3,text,true,,1030,114,1,1,http://ubstudent.online/,305,0,0
+1737059114809,387,Login-1,200,OK,Thread Group 1-3,text,true,,14100,114,1,1,https://ubstudent.online,386,0,0
+1737059115197,967,Homepage,200,OK,Thread Group 1-3,text,true,,16615,371,2,2,https://ubstudent.online/login,298,0,0
+1737059115197,298,Homepage-0,302,Found,Thread Group 1-3,text,true,,1095,126,2,2,http://ubstudent.online/student/home,298,0,0
+1737059115495,314,Homepage-1,302,Found,Thread Group 1-3,text,true,,1420,126,2,2,https://ubstudent.online/student/home,314,0,0
+1737059115809,355,Homepage-2,200,OK,Thread Group 1-3,text,true,,14100,119,2,2,https://ubstudent.online/login,354,0,0
+1737059115465,2290,Academic Structure,200,OK,Thread Group 1-4,text,true,,16687,399,1,1,https://ubstudent.online/login,650,0,341
+1737059115465,650,Academic Structure-0,302,Found,Thread Group 1-4,text,true,,1160,140,1,1,http://ubstudent.online/student/academic_structure,650,0,341
+1737059116116,967,Academic Structure-1,302,Found,Thread Group 1-4,text,true,,1427,140,1,1,https://ubstudent.online/student/academic_structure,967,0,643
+1737059117083,672,Academic Structure-2,200,OK,Thread Group 1-4,text,true,,14100,119,1,1,https://ubstudent.online/login,366,0,0
+1737059117756,1015,CA Results,200,OK,Thread Group 1-4,text,true,,16641,383,1,1,https://ubstudent.online/login,327,0,0
+1737059117756,327,CA Results-0,302,Found,Thread Group 1-4,text,true,,1119,132,1,1,http://ubstudent.online/student/ca_results,327,0,0
+1737059118083,339,CA Results-1,302,Found,Thread Group 1-4,text,true,,1414,132,1,1,https://ubstudent.online/student/ca_results,339,0,0
+1737059118423,348,CA Results-2,200,OK,Thread Group 1-4,text,true,,14108,119,1,1,https://ubstudent.online/login,347,0,0
+1737059118772,1003,Final Results,200,OK,Thread Group 1-4,text,true,,16645,387,1,1,https://ubstudent.online/login,324,0,0
+1737059118772,324,Final Results-0,302,Found,Thread Group 1-4,text,true,,1129,134,1,1,http://ubstudent.online/student/final_result,324,0,0
+1737059119096,320,Final Results-1,302,Found,Thread Group 1-4,text,true,,1418,134,1,1,https://ubstudent.online/student/final_result,320,0,0
+1737059119416,359,Final Results-2,200,OK,Thread Group 1-4,text,true,,14098,119,1,1,https://ubstudent.online/login,355,0,0
+1737059119777,715,Login,200,OK,Thread Group 1-4,text,true,,15128,228,2,2,https://ubstudent.online,360,0,0
+1737059119777,360,Login-0,302,Found,Thread Group 1-4,text,true,,1024,114,2,2,http://ubstudent.online/,360,0,0
+1737059120137,355,Login-1,200,OK,Thread Group 1-4,text,true,,14104,114,2,2,https://ubstudent.online,354,0,0
+1737059120493,1051,Homepage,200,OK,Thread Group 1-4,text,true,,16607,371,2,2,https://ubstudent.online/login,330,0,0
+1737059120493,330,Homepage-0,302,Found,Thread Group 1-4,text,true,,1087,126,2,2,http://ubstudent.online/student/home,330,0,0
+1737059120824,326,Homepage-1,302,Found,Thread Group 1-4,text,true,,1414,126,2,2,https://ubstudent.online/student/home,326,0,0
+1737059121150,394,Homepage-2,200,OK,Thread Group 1-4,text,true,,14106,119,2,2,https://ubstudent.online/login,393,0,0
+1737059120450,2014,Academic Structure,200,OK,Thread Group 1-5,text,true,,16691,399,1,1,https://ubstudent.online/login,592,0,271
+1737059120450,592,Academic Structure-0,302,Found,Thread Group 1-5,text,true,,1166,140,1,1,http://ubstudent.online/student/academic_structure,592,0,271
+1737059121045,852,Academic Structure-1,302,Found,Thread Group 1-5,text,true,,1421,140,1,1,https://ubstudent.online/student/academic_structure,852,0,541
+1737059121897,567,Academic Structure-2,200,OK,Thread Group 1-5,text,true,,14104,119,1,1,https://ubstudent.online/login,361,0,0
+1737059122464,1003,CA Results,200,OK,Thread Group 1-5,text,true,,16637,383,1,1,https://ubstudent.online/login,332,0,0
+1737059122464,332,CA Results-0,302,Found,Thread Group 1-5,text,true,,1119,132,1,1,http://ubstudent.online/student/ca_results,332,0,0
+1737059122797,333,CA Results-1,302,Found,Thread Group 1-5,text,true,,1416,132,1,1,https://ubstudent.online/student/ca_results,333,0,0
+1737059123131,336,CA Results-2,200,OK,Thread Group 1-5,text,true,,14102,119,1,1,https://ubstudent.online/login,335,0,0
+1737059123468,1103,Final Results,200,OK,Thread Group 1-5,text,true,,16643,387,1,1,https://ubstudent.online/login,396,0,0
+1737059123468,396,Final Results-0,302,Found,Thread Group 1-5,text,true,,1127,134,1,1,http://ubstudent.online/student/final_result,396,0,0
+1737059123864,341,Final Results-1,302,Found,Thread Group 1-5,text,true,,1416,134,1,1,https://ubstudent.online/student/final_result,341,0,0
+1737059124206,365,Final Results-2,200,OK,Thread Group 1-5,text,true,,14100,119,1,1,https://ubstudent.online/login,359,0,0
+1737059124571,733,Login,200,OK,Thread Group 1-5,text,true,,15122,228,1,1,https://ubstudent.online,334,0,0
+1737059124571,334,Login-0,302,Found,Thread Group 1-5,text,true,,1022,114,1,1,http://ubstudent.online/,334,0,0
+1737059124905,399,Login-1,200,OK,Thread Group 1-5,text,true,,14100,114,1,1,https://ubstudent.online,392,0,0
+1737059125304,1039,Homepage,200,OK,Thread Group 1-5,text,true,,16603,371,2,2,https://ubstudent.online/login,346,0,0
+1737059125304,346,Homepage-0,302,Found,Thread Group 1-5,text,true,,1089,126,2,2,http://ubstudent.online/student/home,346,0,0
+1737059125649,327,Homepage-1,302,Found,Thread Group 1-5,text,true,,1414,126,2,2,https://ubstudent.online/student/home,327,0,0
+1737059125977,366,Homepage-2,200,OK,Thread Group 1-5,text,true,,14100,119,2,2,https://ubstudent.online/login,353,0,0
+1737059125451,1989,Academic Structure,200,OK,Thread Group 1-6,text,true,,16691,399,1,1,https://ubstudent.online/login,566,0,232
+1737059125451,566,Academic Structure-0,302,Found,Thread Group 1-6,text,true,,1160,140,1,1,http://ubstudent.online/student/academic_structure,566,0,232
+1737059126018,879,Academic Structure-1,302,Found,Thread Group 1-6,text,true,,1425,140,1,1,https://ubstudent.online/student/academic_structure,878,0,550
+1737059126897,543,Academic Structure-2,200,OK,Thread Group 1-6,text,true,,14106,119,1,1,https://ubstudent.online/login,327,0,0
+1737059127441,1266,CA Results,200,OK,Thread Group 1-6,text,true,,16637,383,1,1,https://ubstudent.online/login,309,0,0
+1737059127441,309,CA Results-0,302,Found,Thread Group 1-6,text,true,,1117,132,1,1,http://ubstudent.online/student/ca_results,309,0,0
+1737059127750,333,CA Results-1,302,Found,Thread Group 1-6,text,true,,1416,132,1,1,https://ubstudent.online/student/ca_results,332,0,0
+1737059128083,624,CA Results-2,200,OK,Thread Group 1-6,text,true,,14104,119,1,1,https://ubstudent.online/login,328,0,0
+1737059128708,1537,Final Results,200,OK,Thread Group 1-6,text,true,,16651,387,1,1,https://ubstudent.online/login,355,0,0
+1737059128708,355,Final Results-0,302,Found,Thread Group 1-6,text,true,,1127,134,1,1,http://ubstudent.online/student/final_result,355,0,0
+1737059129063,465,Final Results-1,302,Found,Thread Group 1-6,text,true,,1420,134,1,1,https://ubstudent.online/student/final_result,465,0,0
+1737059129529,716,Final Results-2,200,OK,Thread Group 1-6,text,true,,14104,119,1,1,https://ubstudent.online/login,367,0,0
+1737059130256,964,Login,200,OK,Thread Group 1-6,text,true,,15132,228,2,2,https://ubstudent.online,363,0,0
+1737059130256,363,Login-0,302,Found,Thread Group 1-6,text,true,,1024,114,2,2,http://ubstudent.online/,363,0,0
+1737059130620,600,Login-1,200,OK,Thread Group 1-6,text,true,,14108,114,2,2,https://ubstudent.online,358,0,0
+1737059131221,1376,Homepage,200,OK,Thread Group 1-6,text,true,,16611,371,2,2,https://ubstudent.online/login,365,0,0
+1737059131221,365,Homepage-0,302,Found,Thread Group 1-6,text,true,,1091,126,2,2,http://ubstudent.online/student/home,365,0,0
+1737059131590,391,Homepage-1,302,Found,Thread Group 1-6,text,true,,1420,126,2,2,https://ubstudent.online/student/home,391,0,0
+1737059131981,616,Homepage-2,200,OK,Thread Group 1-6,text,true,,14100,119,2,2,https://ubstudent.online/login,366,0,0
+1737059130449,2463,Academic Structure,200,OK,Thread Group 1-7,text,true,,16687,399,1,1,https://ubstudent.online/login,620,0,251
+1737059130449,620,Academic Structure-0,302,Found,Thread Group 1-7,text,true,,1162,140,1,1,http://ubstudent.online/student/academic_structure,620,0,251
+1737059131071,1183,Academic Structure-1,302,Found,Thread Group 1-7,text,true,,1419,140,1,1,https://ubstudent.online/student/academic_structure,1183,0,801
+1737059132254,658,Academic Structure-2,200,OK,Thread Group 1-7,text,true,,14106,119,1,1,https://ubstudent.online/login,395,0,0
+1737059132913,1125,CA Results,200,OK,Thread Group 1-7,text,true,,16637,383,1,1,https://ubstudent.online/login,360,0,0
+1737059132913,360,CA Results-0,302,Found,Thread Group 1-7,text,true,,1125,132,1,1,http://ubstudent.online/student/ca_results,360,0,0
+1737059133274,387,CA Results-1,302,Found,Thread Group 1-7,text,true,,1416,132,1,1,https://ubstudent.online/student/ca_results,387,0,0
+1737059133661,377,CA Results-2,200,OK,Thread Group 1-7,text,true,,14096,119,1,1,https://ubstudent.online/login,376,0,0
+1737059134038,1166,Final Results,200,OK,Thread Group 1-7,text,true,,16649,387,1,1,https://ubstudent.online/login,406,0,0
+1737059134038,406,Final Results-0,302,Found,Thread Group 1-7,text,true,,1127,134,1,1,http://ubstudent.online/student/final_result,406,0,0
+1737059134445,376,Final Results-1,302,Found,Thread Group 1-7,text,true,,1414,134,1,1,https://ubstudent.online/student/final_result,376,0,0
+1737059134821,383,Final Results-2,200,OK,Thread Group 1-7,text,true,,14108,119,1,1,https://ubstudent.online/login,381,0,0
+1737059135204,749,Login,200,OK,Thread Group 1-7,text,true,,15128,228,2,2,https://ubstudent.online,356,0,0
+1737059135204,356,Login-0,302,Found,Thread Group 1-7,text,true,,1030,114,2,2,http://ubstudent.online/,356,0,0
+1737059135560,393,Login-1,200,OK,Thread Group 1-7,text,true,,14098,114,2,2,https://ubstudent.online,382,0,0
+1737059135953,1082,Homepage,200,OK,Thread Group 1-7,text,true,,16615,371,2,2,https://ubstudent.online/login,335,0,0
+1737059135953,335,Homepage-0,302,Found,Thread Group 1-7,text,true,,1095,126,2,2,http://ubstudent.online/student/home,335,0,0
+1737059136288,355,Homepage-1,302,Found,Thread Group 1-7,text,true,,1422,126,2,2,https://ubstudent.online/student/home,355,0,0
+1737059136644,391,Homepage-2,200,OK,Thread Group 1-7,text,true,,14098,119,2,2,https://ubstudent.online/login,389,0,0
+1737059135450,2273,Academic Structure,200,OK,Thread Group 1-8,text,true,,16687,399,1,1,https://ubstudent.online/login,586,0,245
+1737059135450,586,Academic Structure-0,302,Found,Thread Group 1-8,text,true,,1166,140,1,1,http://ubstudent.online/student/academic_structure,586,0,245
+1737059136037,942,Academic Structure-1,302,Found,Thread Group 1-8,text,true,,1423,140,1,1,https://ubstudent.online/student/academic_structure,942,0,568
+1737059136979,744,Academic Structure-2,200,OK,Thread Group 1-8,text,true,,14098,119,1,1,https://ubstudent.online/login,375,0,0
+1737059137723,1440,CA Results,200,OK,Thread Group 1-8,text,true,,16645,383,1,1,https://ubstudent.online/login,363,0,0
+1737059137723,363,CA Results-0,302,Found,Thread Group 1-8,text,true,,1119,132,1,1,http://ubstudent.online/student/ca_results,363,0,0
+1737059138086,356,CA Results-1,302,Found,Thread Group 1-8,text,true,,1422,132,1,1,https://ubstudent.online/student/ca_results,356,0,0
+1737059138443,720,CA Results-2,200,OK,Thread Group 1-8,text,true,,14104,119,1,1,https://ubstudent.online/login,362,0,0
+1737059139164,1312,Final Results,200,OK,Thread Group 1-8,text,true,,16645,387,2,2,https://ubstudent.online/login,348,0,0
+1737059139164,348,Final Results-0,302,Found,Thread Group 1-8,text,true,,1129,134,2,2,http://ubstudent.online/student/final_result,348,0,0
+1737059139512,364,Final Results-1,302,Found,Thread Group 1-8,text,true,,1414,134,2,2,https://ubstudent.online/student/final_result,363,0,0
+1737059139876,600,Final Results-2,200,OK,Thread Group 1-8,text,true,,14102,119,2,2,https://ubstudent.online/login,357,0,0
+1737059140476,1034,Login,200,OK,Thread Group 1-8,text,true,,15122,228,2,2,https://ubstudent.online,340,0,0
+1737059140476,340,Login-0,302,Found,Thread Group 1-8,text,true,,1024,114,2,2,http://ubstudent.online/,340,0,0
+1737059140817,693,Login-1,200,OK,Thread Group 1-8,text,true,,14098,114,2,2,https://ubstudent.online,373,0,0
+1737059140448,2394,Academic Structure,200,OK,Thread Group 1-9,text,true,,16687,399,2,2,https://ubstudent.online/login,715,0,344
+1737059140448,715,Academic Structure-0,302,Found,Thread Group 1-9,text,true,,1160,140,2,2,http://ubstudent.online/student/academic_structure,715,0,344
+1737059141510,1332,Homepage,200,OK,Thread Group 1-8,text,true,,16617,371,2,2,https://ubstudent.online/login,361,0,0
+1737059141164,1027,Academic Structure-1,302,Found,Thread Group 1-9,text,true,,1419,140,2,2,https://ubstudent.online/student/academic_structure,1027,0,660
+1737059141510,362,Homepage-0,302,Found,Thread Group 1-8,text,true,,1093,126,2,2,http://ubstudent.online/student/home,361,0,0
+1737059142191,651,Academic Structure-2,200,OK,Thread Group 1-9,text,true,,14108,119,2,2,https://ubstudent.online/login,354,0,0
+1737059141872,360,Homepage-1,302,Found,Thread Group 1-8,text,true,,1416,126,2,2,https://ubstudent.online/student/home,360,0,0
+1737059142233,609,Homepage-2,200,OK,Thread Group 1-8,text,true,,14108,119,2,2,https://ubstudent.online/login,357,0,0
+1737059142843,1076,CA Results,200,OK,Thread Group 1-9,text,true,,16647,383,1,1,https://ubstudent.online/login,328,0,0
+1737059142843,328,CA Results-0,302,Found,Thread Group 1-9,text,true,,1119,132,1,1,http://ubstudent.online/student/ca_results,328,0,0
+1737059143172,368,CA Results-1,302,Found,Thread Group 1-9,text,true,,1424,132,1,1,https://ubstudent.online/student/ca_results,368,0,0
+1737059143540,379,CA Results-2,200,OK,Thread Group 1-9,text,true,,14104,119,1,1,https://ubstudent.online/login,379,0,0
+1737059143921,1087,Final Results,200,OK,Thread Group 1-9,text,true,,16659,387,1,1,https://ubstudent.online/login,323,0,0
+1737059143921,323,Final Results-0,302,Found,Thread Group 1-9,text,true,,1133,134,1,1,http://ubstudent.online/student/final_result,323,0,0
+1737059144244,356,Final Results-1,302,Found,Thread Group 1-9,text,true,,1420,134,1,1,https://ubstudent.online/student/final_result,356,0,0
+1737059144601,407,Final Results-2,200,OK,Thread Group 1-9,text,true,,14106,119,1,1,https://ubstudent.online/login,406,0,0
+1737059145009,711,Login,200,OK,Thread Group 1-9,text,true,,15128,228,2,2,https://ubstudent.online,326,0,0
+1737059145009,326,Login-0,302,Found,Thread Group 1-9,text,true,,1028,114,2,2,http://ubstudent.online/,326,0,0
+1737059145336,384,Login-1,200,OK,Thread Group 1-9,text,true,,14100,114,2,2,https://ubstudent.online,381,0,0
+1737059145721,1115,Homepage,200,OK,Thread Group 1-9,text,true,,16603,371,2,2,https://ubstudent.online/login,356,0,0
+1737059145721,356,Homepage-0,302,Found,Thread Group 1-9,text,true,,1089,126,2,2,http://ubstudent.online/student/home,356,0,0
+1737059146077,363,Homepage-1,302,Found,Thread Group 1-9,text,true,,1416,126,2,2,https://ubstudent.online/student/home,363,0,0
+1737059146440,396,Homepage-2,200,OK,Thread Group 1-9,text,true,,14098,119,2,2,https://ubstudent.online/login,395,0,0
+1737059145451,2305,Academic Structure,200,OK,Thread Group 1-10,text,true,,16681,399,1,1,https://ubstudent.online/login,617,0,265
+1737059145451,617,Academic Structure-0,302,Found,Thread Group 1-10,text,true,,1162,140,1,1,http://ubstudent.online/student/academic_structure,617,0,265
+1737059146069,948,Academic Structure-1,302,Found,Thread Group 1-10,text,true,,1417,140,1,1,https://ubstudent.online/student/academic_structure,948,0,549
+1737059147017,739,Academic Structure-2,200,OK,Thread Group 1-10,text,true,,14102,119,1,1,https://ubstudent.online/login,380,0,0
+1737059147756,1496,CA Results,200,OK,Thread Group 1-10,text,true,,16645,383,1,1,https://ubstudent.online/login,348,0,0
+1737059147756,349,CA Results-0,302,Found,Thread Group 1-10,text,true,,1125,132,1,1,http://ubstudent.online/student/ca_results,348,0,0
+1737059148105,382,CA Results-1,302,Found,Thread Group 1-10,text,true,,1416,132,1,1,https://ubstudent.online/student/ca_results,382,0,0
+1737059148488,764,CA Results-2,200,OK,Thread Group 1-10,text,true,,14104,119,1,1,https://ubstudent.online/login,498,0,0
+1737059149252,1412,Final Results,200,OK,Thread Group 1-10,text,true,,16653,387,1,1,https://ubstudent.online/login,356,0,0
+1737059149252,357,Final Results-0,302,Found,Thread Group 1-10,text,true,,1129,134,1,1,http://ubstudent.online/student/final_result,356,0,0
+1737059149609,379,Final Results-1,302,Found,Thread Group 1-10,text,true,,1420,134,1,1,https://ubstudent.online/student/final_result,379,0,0
+1737059149989,675,Final Results-2,200,OK,Thread Group 1-10,text,true,,14104,119,1,1,https://ubstudent.online/login,411,0,0
+1737059150664,1087,Login,200,OK,Thread Group 1-10,text,true,,15124,228,1,1,https://ubstudent.online,369,0,0
+1737059150664,369,Login-0,302,Found,Thread Group 1-10,text,true,,1024,114,1,1,http://ubstudent.online/,369,0,0
+1737059151034,717,Login-1,200,OK,Thread Group 1-10,text,true,,14100,114,1,1,https://ubstudent.online,400,0,0
+1737059151751,1538,Homepage,200,OK,Thread Group 1-10,text,true,,16605,371,1,1,https://ubstudent.online/login,357,0,0
+1737059151751,357,Homepage-0,302,Found,Thread Group 1-10,text,true,,1087,126,1,1,http://ubstudent.online/student/home,357,0,0
+1737059152108,464,Homepage-1,302,Found,Thread Group 1-10,text,true,,1422,126,1,1,https://ubstudent.online/student/home,464,0,0
+1737059152573,716,Homepage-2,200,OK,Thread Group 1-10,text,true,,14096,119,1,1,https://ubstudent.online/login,388,0,0
